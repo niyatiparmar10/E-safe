@@ -1,0 +1,6 @@
+battery_powerbank
+mobile_phone
+laptop_small_device
+charger_adapter
+pcb
+cable_plug
