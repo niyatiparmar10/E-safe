@@ -1,0 +1,2 @@
+dataset_name,source,original_classes,esafe_target_class,version,license_note,notes
+RecyBat24,Zenodo,"Pouch; Prismatic; Cylindrical",battery_powerbank,v4,"CC BY 4.0","Original non-augmented dataset"
