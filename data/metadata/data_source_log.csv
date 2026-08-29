@@ -1,2 +1,3 @@
 dataset_name,source,original_classes,esafe_target_class,version,license_note,notes
 RecyBat24,Zenodo,"Pouch; Prismatic; Cylindrical",battery_powerbank,v4,"CC BY 4.0","Original non-augmented dataset"
+Custom Bangladeshi E-Waste Dataset,Mendeley Data,"Battery_Waste; Glass_Waste; Keyboard; Light_Bulb; Medical_Waste; Metal_Waste; Mobile; Mouse; Organic_Waste; PCB; Paper_Waste; Plastic_Waste","mobile_phone; pcb","Roboflow v5","CC BY 4.0","Using Mobile and PCB classes for Dataset A"
