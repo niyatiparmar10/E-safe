@@ -1,0 +1,1208 @@
+file_name,source_dataset,original_split,original_label,esafe_label,duplicate_group,selection_status,source_manifest
+20250616_194109_jpg.rf.a3cef4ff0c0e9ed8de55bb648878b0a7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,TN_DUP01,REVIEW,trashnet_cable_manifest.csv
+20250616_194112_jpg.rf.71a59e90de8a63ee8c4ab11e614150ae.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194130_jpg.rf.eba1ce2caaed95bc0133c2459e4d08fb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194210_jpg.rf.fcbc163582c0653f2a9fd16b7a1b8819.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194214_jpg.rf.338922febe7af3058e1d083c02f4de47.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194249_jpg.rf.212eac6fe0166d4dcf75a02a52aa21f3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194250_jpg.rf.e275a018a5c300fcb90e8848a49a0f52.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194252_jpg.rf.4fd361e88c37a3798af56c0da10148dc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194253_jpg.rf.9142841ff128d9a4d06b4b51ba37e8c1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194509_jpg.rf.6146705c20db8f58285da20830bab3fc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,TN_DUP02,REVIEW,trashnet_cable_manifest.csv
+20250616_194540_jpg.rf.88d40c4b62bda5c2441bed6684d37aea.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194543_jpg.rf.c4a14a230684a1be1e3507a83019e71b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194550_jpg.rf.0f2f598aedf2178182ed95144aa62b98.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_195413-1-_jpg.rf.f8d9d97e330cae58cd556ab0fa7dbd1e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_195516_jpg.rf.8f7245bf91b0442f3a4af7d620d26a55.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_195805_jpg.rf.f6e801a87b5f9271b9c24abcb060631d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_195814_jpg.rf.4ecdbd3fd32ffc11c6a6f03b784342fd.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200540-0-_jpg.rf.510c24337b3db91282e51c0dbda0addf.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200540_jpg.rf.e2876f4dd9aabd0c7c85c04f49cd19d6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200549_jpg.rf.f0a4731ffdd7aae5d7a424c201e21cd3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200550_jpg.rf.a0187f41f0d84162b3ee6a5887613e9f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200557_jpg.rf.0f7595be977f001d66b85a622f4a8908.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200618_jpg.rf.58869f3bbc3ffb73871491338b237700.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202054_jpg.rf.cf850b058c8065781eeff690e926adbc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202056_jpg.rf.b81794c81ce18f778f717920bc3edba6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202058_jpg.rf.b22e492e96e70894594ce2ae03fa7595.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202110_jpg.rf.8eaa3c93a7346b87539951104ca69b87.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202114_jpg.rf.0f6c41072b31ab925c613022e2411f9e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202116_jpg.rf.676ca301fde48c0e2f3c0860a1da775e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202118_jpg.rf.ffd2db16bb2ea2d02820108cada7bd8a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202122_jpg.rf.e98abe40d00ced39dd89bd01f5d74616.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202128_jpg.rf.4704d72b4bb86d5dfea6553d98eaee69.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202129_jpg.rf.17eb694175696c7b96da0be795861277.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202131_jpg.rf.4a1e60871855d083ae29ea66d96931d9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202134_jpg.rf.ec537c538f333b3d13b02cb51120556a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202136_jpg.rf.a35ebe7fc7ef582e14b9d686acfeea1c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202405_jpg.rf.f708d06e95e4451543ba006d750db5e4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202410_jpg.rf.9eb224ab027aa41bafddd99f4c9a5306.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202412_jpg.rf.01fa53cdd4b4c19b4e601a05d5fc8e20.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202453_jpg.rf.2179834ede121b0e6807b73eb6f08378.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202458_jpg.rf.32e050d4f2c4d7562ecb57d843ec46e1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202501_jpg.rf.e84dcbca78a44a67b21263af7d860d0e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202503_jpg.rf.cb0517b16d85ff9c8590bbd534e15be8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202507_jpg.rf.17e443212540a567ac787392a33abfd8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202509_jpg.rf.61ea2af023f4a54ecd7bce1a06559c4e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202513_jpg.rf.1bee796d37d101721a48582486682f97.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202515_jpg.rf.29ae2fc2c0f22786d4e94cec7085d87d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202521_jpg.rf.53fa30e2fc1056769bcc8f7cb5c3c364.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202541_jpg.rf.19d6f01fe46b161dde215aa047f11dd3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202543_jpg.rf.711c0806f7ba78c21e92b5cc9ec320cb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202553_jpg.rf.5e957e0761756d3dfbbb60fea24bb864.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202600_jpg.rf.700630760ab4614701f31c1a8f0d4229.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202602_jpg.rf.5ffa34b2c545dca14abd2cb05551fdb1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202609_jpg.rf.c6e66e7746841f3aec2b229292e324cb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202615_jpg.rf.cf3a572a9c90f257a2ffe034343a28ba.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202620_jpg.rf.187761bbdd7add85f938df5fd67715d3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202623_jpg.rf.5ae933b06ddf9a878e164e62c86f5440.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202625_jpg.rf.ab4bc3ce7355b52c89ce0ff045382f46.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202635_jpg.rf.f59019f9bf2d9c10dbc8201dc32b0b3d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202638_jpg.rf.4ef5ff9f38f1d5c49f2e08de0e050b3d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202640_jpg.rf.5951b2cd3f6b236db97d3115c2847891.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202642_jpg.rf.8b95f805df6dbbec9253eec901e08245.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202644_jpg.rf.7d578610f1ffb750f6ab8353c01ccab9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202646_jpg.rf.8716ece1c7201629e45dcd06e673592c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202708_jpg.rf.4c3bb65e06bd5e894e5d48b96a97ebad.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202714_jpg.rf.e2888657fcc093bc2919b3dfc43ddb48.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202721_jpg.rf.83955aed9f505fa99d271dfddeb08e43.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202723_jpg.rf.600902775abe8c86d1e48a5bb8bf53d6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202728_jpg.rf.2eafc307d6c4973a836beb4b8fc748b1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202730_jpg.rf.92c56d0267c2d07cfafee7d32a850246.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202731_jpg.rf.ff7c05a2e32b12c412982f24142243d2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,TN_DUP03,REVIEW,trashnet_cable_manifest.csv
+20250616_202733_jpg.rf.ab573c86f61fe72f088724ab4789c339.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,TN_DUP03,REVIEW,trashnet_cable_manifest.csv
+20250616_202734_jpg.rf.db023abfe3536707b170751f2bafd5fa.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_203613_jpg.rf.cb8cd92a899b035a69e12520803a4277.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,TN_DUP04,REVIEW,trashnet_cable_manifest.csv
+20250616_203616_jpg.rf.1a4eb8ccd98124e87cceaea5802f8dd9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_203822_jpg.rf.5a64365ff93849947afe2659aa2d940b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_203943_jpg.rf.6cd2e2ea5e310677ad7ca45142c229e0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_203945_jpg.rf.fd5a14232387d3ad7b22378589e51976.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_203947_jpg.rf.8cf20f34a3e87e00ae1b0ed69716eed7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_203949_jpg.rf.33d6dbb7237ebd3acd8584b98f34bda9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_203954_jpg.rf.f776e9298cd96b3c00a3f561068d1ac9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204001_jpg.rf.223241692899034df3fdbb9da61b3367.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204003_jpg.rf.1eaf4bae40b3d7620496223b0c61c88b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204008_jpg.rf.920ed4d2348e08e3fb1b09ca46cc02c2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204022_jpg.rf.17a6a8c114ae44696e5fd00e750c202c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204024_jpg.rf.66756e5f6cf6d13959d1c217253d6336.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204027_jpg.rf.21cb6edfd51801fe181deb863a7dd026.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204041_jpg.rf.c20d8a4bb7b56ea3c07ba93dfd3b3b6e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204108_jpg.rf.53af813759a6eb2f430159dbd6def9af.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204110_jpg.rf.4938898caa13daf7c1ad5a719964c313.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204112_jpg.rf.b6180689a38134a69ea58b045d11d630.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204114_jpg.rf.2bd05a86bd9b7aff23497f06c4faf135.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204123_jpg.rf.4422bf6428b032c421ecbe122b3d63c0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204135_jpg.rf.3f80be7717e419f649b4d5940f979929.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204147_jpg.rf.ec62297613cac55ac0b42fe1587538a6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204200_jpg.rf.96a7737b598566d951537fceae30de8b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204233_jpg.rf.581ffaa290a06d2c20c48458d984f7ed.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204245_jpg.rf.e4c7f2cf354961200d362dc1b1397ec8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204247_jpg.rf.32d9b0ac5ca6245c17a9f8b5824ca1af.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204249_jpg.rf.f90ecc749d8cbca98fd77dc681635ba7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204305_jpg.rf.083437d7894e93c69939bdeffd010cdf.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204316_jpg.rf.bc39758291881a4667f49baaea4436ed.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204321_jpg.rf.b4c2e5a280f210c964ac7909e5adc355.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204325_jpg.rf.67d4571de5ef6650d6b825ce89673fe6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204329_jpg.rf.9fd75d067ece2f3aa4ba9c58c157f17a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204336_jpg.rf.0bdc69fd4d72edd4cff1d1df28b75e89.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204344_jpg.rf.c83bf0c0fcebc8e0aa746365bb87614a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204356_jpg.rf.cb5e35aa258a8862ea07ca74b536e2b8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204358_jpg.rf.db1a03c429d6cd32d5d7ed9aa762c66c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204401_jpg.rf.b2846d134d2dc45dcfb76641827ab458.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204403_jpg.rf.bdd342749e7f2016b7bd436081820e84.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204405_jpg.rf.b6801b68e66371f9186c11525bc21fd8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204406_jpg.rf.00db95824da94d8b3b2b397387f48703.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204411_jpg.rf.9fb6de02803552ea76de869817083a7f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204418_jpg.rf.9bf45c37b8af02149eb5fe8de98c3a17.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204420_jpg.rf.53ddfba1d7c93b434bf1573546bf47f4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204422_jpg.rf.8d42553dd2a66c03aadbbec0b8d55a46.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204442_jpg.rf.893295316db6738f43ff04057bdbfe8d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204449_jpg.rf.e39abc3f12be14773b6bac10324de9ce.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204451_jpg.rf.38d6d5878bcd0b0fe21d17d043321a19.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204455_jpg.rf.24d648be52ecb0507c61cb34bcb963be.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204459_jpg.rf.61d3476faa66f89a9cc1af24db0ffa92.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204533_jpg.rf.db8c9a175dccc6e31a30176f7da719f1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205027_jpg.rf.ece65e6da76686b67b953ed70765b8e5.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205053_jpg.rf.93d377c5a3394880e3a741c4a7c01b8c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205058_jpg.rf.ad584fb508328d1c5106fb77d7b336e9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205247_jpg.rf.56c33a5a6e145e7850e1a4060afe627d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205257_jpg.rf.2751a872bbc1234431ba9e7be2783c81.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205312_jpg.rf.0ace34c253f8afd1c9ab24de965b384a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205352_jpg.rf.f4d4aacfd25da0396adb7a852080ab4e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205356_jpg.rf.42db80086dbc0c814c9fce546dfc4c9d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205433_jpg.rf.bfc73873929fd121d456dbdc39188cbd.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205434_jpg.rf.8f45695b7b8c7a3d5e64fc0ac122bff8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205437_jpg.rf.2bbe49968f123f54e59244a0bd78dc33.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205440_jpg.rf.0a65057906fff3e63ac6cc7e8cce93f8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205444_jpg.rf.d442c66072f9cb0bad2cadd4eb2f8854.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205447_jpg.rf.0b8a317e0518a67c8a1a869b1318447f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205527_jpg.rf.0809af5c603d8109a414b5bb259ad171.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205532_jpg.rf.fc999abee46364742ead04591c291cf6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205540_jpg.rf.25367cb1a8b0653685287b6ed901fda1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205544_jpg.rf.ee52c881a8d6999d6ed92a28e6bf5c95.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205558_jpg.rf.c7f796bb6c19da64435f9a889c269b9e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205603_jpg.rf.bd82ea55b5a9b94792631a3362e60ce2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205606_jpg.rf.0125e1e64f9313fc5bd2ab2a557269a2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205609_jpg.rf.484da1410ba149c4ad53f3997db71818.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205611_jpg.rf.60108db98767e6b100db2c6975c5201f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205621_jpg.rf.6c8ff9e15103c86b258b49420e2754a2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+9012563_P1_jpg.rf.cae71ba95244859eb6033a3eb146ce1b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+disordered-telephone-wire-used-landline-260nw-1195450339_jpg.rf.140eb2a4e99cbf40f16d61b63b417741.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+download_jpeg.rf.5dcc4df8099785732fc9b03c79872b10.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+istockphoto-1401012175-612x612_jpg.rf.d1ffab58e0f9d85ab86d69de37922b6a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+multicolored-wires-tangled-wiring-on-600nw-2486595511_jpg.rf.71a2ff5ce89a6614a6a7002f5fcd9d14.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_10_2025-06-05_22-14-21_jpg.rf.fdd8271affc5d20927c845901b5cadf8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_10_2025-06-09_00-32-40_jpg.rf.0f756c03cac7ff6e9c955dca0cd06581.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_10_2025-06-09_00-41-43_jpg.rf.719d0b442e874ebf506a442e8684e9ae.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_11_2025-03-31_01-14-55_jpg.rf.1b2be2b4daca936bfd873a9a8f9705d7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_11_2025-06-09_00-40-51_jpg.rf.8bd048ef7cdc7ae607e4db7dcf4ded8d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_11_2025-06-09_00-41-43_jpg.rf.4edba7b2442056c8fc52825193bf3ba6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_12_2025-03-31_01-14-55_jpg.rf.201c1482b5fe0879033cc40b3490e4c7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_12_2025-06-09_00-32-40_jpg.rf.2681f20dbca748dc2533dea91cb27da7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_12_2025-06-09_00-40-51_jpg.rf.e2d7cd66e0f7180e5c7a794d0b123c9a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_12_2025-06-09_00-41-43_jpg.rf.5ab147a0825112d9e4d5aadd5bba8fdb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_13_2025-06-09_00-32-40_jpg.rf.4b0ecf0c6e144186c8a7c11476e4cad6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_13_2025-06-09_00-41-43_jpg.rf.19d955aca9d24a7722bf2bf0d1ffcd24.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_14_2025-06-09_00-32-40_jpg.rf.04ab49be5c0f638191bfdae9b243fd28.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_15_2025-03-31_01-14-55_jpg.rf.76ffbd4f302d070b70263bb9d87f6b0a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_15_2025-06-09_00-32-40_jpg.rf.92d400fb98e97880c95cfcdacfb3d60c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_15_2025-06-09_00-41-43_jpg.rf.30df0919a1985a6ffc581ab95b7d9664.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_16_2025-06-09_00-41-43_jpg.rf.1260f0c61049ab68127b958b2d8a657c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_17_2025-03-31_01-14-55_jpg.rf.05f66217cc8078d3d7888e1305627895.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_17_2025-06-09_00-32-40_jpg.rf.81d1a4f912ff52362fb729091683cba0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_17_2025-06-09_00-40-51_jpg.rf.9275b7b766431a838e319008722b942a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_17_2025-06-09_00-41-43_jpg.rf.9d5e4af9de3336eb61caf20e577a1aab.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_18_2025-06-09_00-41-43_jpg.rf.1d71d9e97a6dade8edf3733e3008bb07.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_19_2025-03-31_01-14-55_jpg.rf.7516c566302f4fcc9e978bf8b4cceaf7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_19_2025-06-09_00-32-40_jpg.rf.d63d7dddf0981bd8698eddeb64c25ef4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_19_2025-06-09_00-41-43_jpg.rf.96ea2e3c2c83d0fb9eed57efbcad12af.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_1_2025-03-31_01-14-55_jpg.rf.0961f8dda4389d6b05816a47ceb0f446.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_1_2025-06-09_00-32-40_jpg.rf.cf9b4c871b0a64c12cb400741cc20d06.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_1_2025-06-09_00-39-57_jpg.rf.7da9f16eef8281e3fccc2c4f58aa1b74.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_20_2025-03-31_01-14-55_jpg.rf.0259480758fd17ef837f6574c876862a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_20_2025-06-09_00-40-51_jpg.rf.36830c4254a39d0afc7dab93035c3d33.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_20_2025-06-09_00-41-43_jpg.rf.ecf1c72c5879cf7f45bce265c890b9cc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_21_2025-03-31_01-14-55_jpg.rf.f8549071bb320f50c5ec6453625ef209.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_21_2025-06-09_00-32-40_jpg.rf.c12b685630be786fc7a842411f2cdcdb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_21_2025-06-09_00-40-51_jpg.rf.a5bbfff3690b5d2c37481902161fe51d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_22_2025-06-09_00-32-40_jpg.rf.217aa47831468e8d0a7d6430c4561247.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_22_2025-06-09_00-41-43_jpg.rf.187e9dbc3beeea50a4da1e16b1767dc6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_23_2025-06-09_00-32-40_jpg.rf.aced89223607b2f95cb991b77f3f1d91.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_23_2025-06-09_00-41-43_jpg.rf.d5b71ecb5dc61441e23f9571f41b72ae.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_24_2025-06-09_00-32-40_jpg.rf.7135cf0f886dcd4797a2771a63bb82d4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_24_2025-06-09_00-40-51_jpg.rf.c92d28bd21f66b9280040964e557c66e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_24_2025-06-09_00-41-43_jpg.rf.b93f39a3bc7263b0e799736e26314fd2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_26_2025-06-09_00-41-43_jpg.rf.288ccb436d3dcd831bf4057828a33475.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_27_2025-06-09_00-32-40_jpg.rf.922b2b4b63e89e623d47824972b0e218.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_27_2025-06-09_00-41-43_jpg.rf.f14c8861b501eedfca6bd8a00d51e845.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_28_2025-06-09_00-40-51_jpg.rf.6683570051c232f4232e56491ae8435d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_29_2025-06-09_00-32-40_jpg.rf.983882e736f95e0037546000b74a506f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_29_2025-06-09_00-41-43_jpg.rf.c2e87c866dcab22eeafdf37f60f06ca0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_2_2025-03-31_01-14-55_jpg.rf.40e0981f5ef88be1e8d94732fb25ae41.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_2_2025-06-09_00-40-51_jpg.rf.2da314f03da25a7577f2371f1f350fd1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_2_2025-06-09_00-41-43_jpg.rf.397cec9095d82191b141b6d70f8d37fb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_2_2025-06-23_20-40-46_jpg.rf.7cefafec4966fbaf7cc23912ac38c14a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,TN_DUP01,REVIEW,trashnet_cable_manifest.csv
+photo_30_2025-06-09_00-32-40_jpg.rf.1c505f11b0d28e00c563ed2ed261cacc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_30_2025-06-09_00-40-51_jpg.rf.63bd7329fb4ef010f4bbd706a9e94cb1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_31_2025-06-09_00-32-40_jpg.rf.5cef43bdf983a5e34a75ec593de5a63c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_31_2025-06-09_00-40-51_jpg.rf.c3924584583c1c8c0169796876bbe477.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_34_2025-06-09_00-32-40_jpg.rf.3d4cf8d7f89bc4e05c8e3b122cf3c88d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_35_2025-06-09_00-32-40_jpg.rf.b2be2dbf426f8727e150635b5f639224.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_36_2025-06-09_00-32-40_jpg.rf.f2edce4ede4891da31925052c515481c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_36_2025-06-09_00-40-51_jpg.rf.d3a1e3aef9e84f38816803f4e57eddc7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_37_2025-06-09_00-32-40_jpg.rf.99477369e13cd4a5a295474c201076e9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_37_2025-06-09_00-40-51_jpg.rf.f344a3be71955691b76d60bf07ddd696.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_38_2025-06-09_00-32-40_jpg.rf.a0c1cf79c8d7e88e718186b2837e2f52.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_39_2025-06-09_00-32-40_jpg.rf.a1d724261f57e8c34046ea08dbb05b63.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_3_2025-03-31_01-14-55_jpg.rf.bb626863f55365d836e8b4a973911a1c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_3_2025-06-09_00-32-40_jpg.rf.7c803f4dda5a07ec3e26a23942510472.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_3_2025-06-09_00-39-57_jpg.rf.8ead3d281b9f24df59e68407955d03a1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_3_2025-06-09_00-40-51_jpg.rf.138e1a4bb47a42fa0973ad1e23fca094.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_3_2025-06-09_00-41-43_jpg.rf.4f2cb6877121a2cdad825297a290edc3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_40_2025-06-09_00-32-40_jpg.rf.d60c73ccb8e7cfdf494032679ee82340.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_40_2025-06-09_00-39-57_jpg.rf.f490c73782239e778895261382c3e1ce.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_40_2025-06-09_00-40-51_jpg.rf.3083ee3a90efa5f6393077c847f848d6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_42_2025-06-09_00-32-40_jpg.rf.7cadd8060f2c1f519ee95a5fdb757911.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_43_2025-06-09_00-32-40_jpg.rf.c8d4f56dd0a3619da00e2bc58fc60109.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_45_2025-06-09_00-32-40_jpg.rf.f5504db203969cb7d740be052f2df2aa.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_45_2025-06-09_00-39-57_jpg.rf.a04d23b8830be5f4a6cbc4b7248f9329.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_46_2025-06-09_00-32-40_jpg.rf.ae37a5cd3cc8f546c4694902f94e71e1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_47_2025-06-09_00-32-40_jpg.rf.10aa9e8ec8879a629a305939a6b5b2ae.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_48_2025-06-09_00-32-40_jpg.rf.26a74e9dcd5309456cdf2ac5ada03e0a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_49_2025-06-09_00-32-40_jpg.rf.0dbccba5a010382a4e2976cedcc71557.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_4_2025-03-31_01-14-55_jpg.rf.f23b53271b419704b557735d92529996.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_4_2025-06-09_00-32-40_jpg.rf.d712566bbf23ee0c68245ded7ad07560.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_4_2025-06-09_00-39-57_jpg.rf.b1ae551b647fc69e5d5e5524127dedfd.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_50_2025-06-09_00-40-51_jpg.rf.48db60fd17aafe9646969d0c632cfa3d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_51_2025-06-09_00-32-40_jpg.rf.66164be7cdfd094f9361a0d2b0fcac99.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_51_2025-06-09_00-39-57_jpg.rf.1dc8e10fa2a74ebb9fd378fdabe37303.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_52_2025-06-09_00-40-51_jpg.rf.e2b974afc5bc1fb1dd49041789df5379.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_53_2025-06-09_00-32-40_jpg.rf.8a4cf315488d2361d43accc25cfa61bc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_53_2025-06-09_00-40-51_jpg.rf.b1b5199f65ca60e8e3f0ef199cf53ba0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_54_2025-06-09_00-32-40_jpg.rf.832a47269ebfc19a8a4acdc88621c16e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_54_2025-06-09_00-40-51_jpg.rf.6eb68bb695f1af22a470472c0cda830e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_55_2025-06-09_00-32-40_jpg.rf.f4bc4ee5fa69c0cc41485e699bf8c180.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_55_2025-06-09_00-39-57_jpg.rf.1f8c0687477664cc4db68fa9501d6281.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_55_2025-06-09_00-40-51_jpg.rf.a3b168f0f4646e028825787e05139298.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_56_2025-06-09_00-32-40_jpg.rf.d0a55e01558836c8d1d3ceed0c944fba.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_56_2025-06-09_00-40-51_jpg.rf.a09ef77cdbe923178b31362d0882647d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_57_2025-06-09_00-32-40_jpg.rf.d0c7f7e4c321f40500c2675830ccb429.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_57_2025-06-09_00-40-51_jpg.rf.8a7bc13dc80e8021b464b4a63a8f6cd3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_58_2025-06-09_00-32-40_jpg.rf.e594993f83a50c4f5028bd9143ba0d93.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_58_2025-06-09_00-39-57_jpg.rf.bea39bd6be191d51053f732fbbbfb412.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_58_2025-06-09_00-40-51_jpg.rf.82122c0060a6e06d3f2e4817d4740ab1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_59_2025-06-09_00-32-40_jpg.rf.1bc3a31648726c34cb45f700e5d85e90.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_5_2025-06-09_00-32-40_jpg.rf.8b900a6bc6217e6e13c0f3350b6f59ee.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_5_2025-06-09_00-39-57_jpg.rf.e62add40ef73ff0c1b7768cd1438df49.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_5_2025-06-09_00-41-43_jpg.rf.f40231c69180c0fcb46f7ff3608ced0d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_60_2025-06-09_00-32-40_jpg.rf.e98807bece531c3f82ca5c85cb69ddaf.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_61_2025-06-09_00-32-40_jpg.rf.59e92286c983c2eefc796be76ae3e440.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_61_2025-06-09_00-39-58_jpg.rf.056804b3b6aec0db581bb71bf974d483.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_62_2025-06-09_00-32-40_jpg.rf.67b732e3b95dc89e8ee79a58d1906429.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_62_2025-06-09_00-39-58_jpg.rf.6d1573af95b1219120c2088228cdc004.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_62_2025-06-09_00-40-51_jpg.rf.eaafe0a7191d2e8d3fa918619adba811.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_63_2025-06-09_00-32-40_jpg.rf.51554558927ddf61b3a2042df00bcf9f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_63_2025-06-09_00-40-51_jpg.rf.e19e2418a162a11e6b02dc329e9b2b21.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_64_2025-06-09_00-32-40_jpg.rf.d0918b5bdbc1d37df2f2c5b1134f5290.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_65_2025-06-09_00-39-58_jpg.rf.4c67fca043486cf0bf958ff22614cda3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_65_2025-06-09_00-40-51_jpg.rf.b423c54e669df0ed85d7748585d53d52.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_66_2025-06-09_00-32-40_jpg.rf.e9464a1dc6dbddf707bf41ba03d4af7c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_66_2025-06-09_00-40-51_jpg.rf.c514ba033e7b7965183eca1c9b481654.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_67_2025-06-09_00-32-40_jpg.rf.2fbf04590fbead20606591326d9b8c56.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_67_2025-06-09_00-39-58_jpg.rf.5a26fc3dc1d651fe3f1567af55da3f58.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_68_2025-06-09_00-32-40_jpg.rf.f9fc0604c79ac1ad8f16f62d471091b1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_68_2025-06-09_00-39-58_jpg.rf.6c07af22aa1e31eb6e73537fd975d1e0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_68_2025-06-09_00-40-51_jpg.rf.945ad13b19efd20d58611928c5347318.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_69_2025-06-09_00-32-40_jpg.rf.1b9bff6862ea3364b87b2bcfb708b303.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_69_2025-06-09_00-39-58_jpg.rf.d1331892f728b40984c3c74b12b4e269.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_69_2025-06-09_00-40-51_jpg.rf.caab6816cb9c9e66b7db2331bafa8f34.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_6_2025-06-05_22-14-21_jpg.rf.d326fed0077a8b86f111b2522809fb32.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_6_2025-06-09_00-41-43_jpg.rf.590ee9d24e64a23d842fc4ad92ad4155.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_70_2025-06-09_00-32-40_jpg.rf.089419ca5d61a277871cb61469e02559.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_70_2025-06-09_00-39-58_jpg.rf.e0e1bdb40f276b707601c731f197637a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_70_2025-06-09_00-40-51_jpg.rf.022ef843971d3852fe71f3ebf5e851a3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_71_2025-06-09_00-40-51_jpg.rf.8211a1232b3f5dc34d0b51d0c425248c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_72_2025-06-09_00-39-58_jpg.rf.38bbf8e6ba86561eeb151cc3db0b7427.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_72_2025-06-09_00-40-51_jpg.rf.3355bf4996efcaf946a440fecca24bab.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_73_2025-06-09_00-39-58_jpg.rf.fc11270f402d842c5e13837f8acae9f7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_74_2025-06-09_00-32-40_jpg.rf.91409b6906f2c65f9e0b02e9bebef563.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_74_2025-06-09_00-40-51_jpg.rf.c5a2ce6829bb9f42b3397198548df5c3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_75_2025-06-09_00-32-40_jpg.rf.4d4ec53f94631457c1e1bc9e5fbdecd0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_75_2025-06-09_00-40-51_jpg.rf.0350885a9464060baba0982057cab090.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_76_2025-06-09_00-39-58_jpg.rf.e0870aae52548ff9ebf0bec710a6972e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_77_2025-06-09_00-40-51_jpg.rf.6a51cbb73becc0b7e6a94a0ac4a69b29.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_78_2025-06-09_00-40-51_jpg.rf.e89c8ba864259f0e6cef8954208c9fa6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_79_2025-06-09_00-32-40_jpg.rf.92cd0309beaf8b3640de501ecbde865d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_79_2025-06-09_00-40-51_jpg.rf.346cf8317d49233a123e8fa37dedbe44.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_7_2025-03-31_01-14-55_jpg.rf.7a5bfc6083434a8bb72b5b1c278b9dde.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_7_2025-06-09_00-39-57_jpg.rf.f4ffb4a0aadf9019f82c072496d51b6c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_7_2025-06-09_00-41-43_jpg.rf.8fcb79c1fe2b96ce83703335b463978d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_80_2025-06-09_00-32-40_jpg.rf.7fa82d63bd5c00e72267107204413637.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_80_2025-06-09_00-40-51_jpg.rf.26e6b07cd30b7e60f2bcdd69a31c6e0d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_81_2025-06-09_00-32-40_jpg.rf.65ccea6ad644bb810b6e50f614c8be5a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_81_2025-06-09_00-40-51_jpg.rf.30f704695c862ac9198ad434d194c1ac.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_82_2025-06-09_00-32-40_jpg.rf.7be1168e4dc005755d76b2bf023f89e1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_82_2025-06-09_00-39-58_jpg.rf.bbc5d47183e1134a9a0b5bedd81f0a7a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_82_2025-06-09_00-40-51_jpg.rf.43e38d06530b42f18127027f170af696.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_84_2025-06-09_00-32-40_jpg.rf.bfa544be4b553c4880f809c2d4ca7a03.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_84_2025-06-09_00-39-58_jpg.rf.a74fc194db2c2e63c26ef14e6e5ea136.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_84_2025-06-09_00-40-51_jpg.rf.a2b2b215956a20dd82d81f0f1b3f8492.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_85_2025-06-09_00-32-40_jpg.rf.fb3cf677276c765685cf96d22b92820a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_86_2025-06-09_00-32-40_jpg.rf.35113801e68b6545c9d04fb7d2396ffc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_86_2025-06-09_00-39-58_jpg.rf.6addcfbe4fa789e6e90420f56f7a91b4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_87_2025-06-09_00-32-40_jpg.rf.e85df1a2547d81b83a356f2599ce2c56.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_88_2025-06-09_00-32-40_jpg.rf.b2d7c713bc46679636b46cc7dfa5f47d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_89_2025-06-09_00-32-40_jpg.rf.5cfac24b2b20a9b9a663edfd0de91b21.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_89_2025-06-09_00-40-51_jpg.rf.350c71a50c437d89c03cab49a9b2c1e6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_8_2025-03-31_01-14-55_jpg.rf.344d15ba32c10990024d2fd560109820.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_8_2025-06-05_22-14-21_jpg.rf.b6de163577cd8f074af8cf58f82784fa.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_8_2025-06-09_00-32-40_jpg.rf.f34a1994beeb7c213842bea6555259b1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_8_2025-06-09_00-39-57_jpg.rf.fbde41c55eeea57a3dda45c022a67777.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_8_2025-06-09_00-40-51_jpg.rf.0078b003796e30fd6c092e3eb09a60ff.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_8_2025-06-09_00-41-43_jpg.rf.e94e1d9e12626973dcb76f30b799e45b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_91_2025-06-09_00-32-40_jpg.rf.4606c5a5f5e11478928501d902f14af2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_93_2025-06-09_00-40-51_jpg.rf.287885b46d05bb192cf7de3a7d727477.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_94_2025-06-09_00-32-40_jpg.rf.76aa8eb89b74d44e46af669341e328d9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_94_2025-06-09_00-40-51_jpg.rf.450285a03b4e630a234946d0387243b5.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_95_2025-06-09_00-40-51_jpg.rf.d97e830602e45ddc8f8ce735207bfc8f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_96_2025-06-09_00-40-51_jpg.rf.c0592179ebd4f24963f8fdd638441f27.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_97_2025-06-09_00-40-51_jpg.rf.8fffe011f2100640e28dceaa87552f56.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_98_2025-06-09_00-40-51_jpg.rf.27bf08433f6b3b5b9486c9c14b97f2cd.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_9_2025-06-05_22-14-21_jpg.rf.6d60042489a8b153ac8820d3b59b8d58.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_9_2025-06-09_00-32-40_jpg.rf.fd0aa4827b555ed830ff1097dbb4067b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_9_2025-06-09_00-41-43_jpg.rf.e251b05d05037c827f7b3492a1805af9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+rawImage_jpg.rf.9046621f0c45812741af8d940618a33c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-0e1SAIRg48MeDUqVgpp3_jpg.rf.251c7b7d11408f187a1e75c05933f3f8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-0F3u5HihhcHCmbgFlW7I_jpg.rf.af206e0c4b7b2ec97fabc4c5d2b5454d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-0hhEAPoa8ZjZ2OL48yWu_jpg.rf.ccd38d24bc867a407a7be1e9ce12263d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-0XKNEXm30ps6zezIYGfv_jpg.rf.b9f1cb00edc9e25db711a5edd77990c1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-2q7R9DyqGApLyIG60Ggo_jpg.rf.7866c6785b9ec370797fb668a56c33a7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-3MbfPR1hf8nBDQioSXWj_jpg.rf.13defba13aee9da03c10edb7149e8bdb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-4j3Xgq1zwOLFQAANuva9_jpg.rf.4a82922ea3787d89ffcbb6f7ada4b2fa.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-62khpXF3q8btc034QNhB_jpg.rf.e3ebda6f99009969e9a8a7885a3ac2b4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-6s0WhkSPhB6xV3dGx7WU_jpg.rf.dc1696c913e25e913277be4bc72bdcfb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-6sS9VEgQBDhw4UiaN54q_jpg.rf.b136e9c9fe205005edcbcbf4565f0742.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-7HZN9dOukDjkwAHrYe3c_jpg.rf.c7bcc19085b374de543982612ec855df.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-7RUd3trOq1LP1MPikg1X_jpg.rf.c28930735cdd89bf6032d1435b38edba.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-8FA4xlLFTvmBzhyx3of1_jpg.rf.6470f8a78a4826c9f430a777ea206d5c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-8QsIINyx0EfrNHSxipR0_jpg.rf.d3a973d41a0cff962bdff35e2b6ba569.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-8TrOpVQVrfFXDxRp9DnU_jpg.rf.148e8972632b15916b4bb8b17601f9cf.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-939VlJvabs0sTj8GFKED_jpg.rf.c3720c94b3cf1d97b396e71a29935403.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-9dCcg5SF6BlvOSw4YDFl_jpg.rf.dcab105ba04b9ffd12cb4de72f539e8d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-9DrocgNayRuaHxrSiRJV_jpg.rf.4247bdcb504b3eb47f554e2b167c9e4c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-9sQcE9tBTIyEt0ME2p13_jpg.rf.09e5453fa3f7b54d511661571fdec1bc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-AHf35xX799MEfXsK07Q0_jpg.rf.fe05f53a00ab9eff0c2befb761617eef.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ALCIVH62TAZuOKtt2jwR_jpg.rf.fac64b78a0096affd1ef2447e707c981.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-b14HTb1xv2hlwzB1zEYa_jpg.rf.b45234f3dbc6063aa20fffdc342232ae.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-b7ZX24xJApwERdGRIQrp_jpg.rf.b7e6f7456e11bf709eb2e3a942e36f5b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-bzvzQhjIh5wTJTdTeDug_jpg.rf.b7c911acf39e0dee821bfb3919c5008a.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-CHqtruWlwBKUni7sJJ6S_jpg.rf.79be498da3efc0d5a604fd2b222a0a78.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-cjsOD4Tv3aTbszxmhB03_jpg.rf.5f29678eb9f7ef38b52b6de9fd63caf0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-cpLl74rEMnYbiNApQTAW_jpg.rf.929574e847f465dbe4f2a747d8b82f23.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Cqk4HSZLqBnFmL12AlK2_jpg.rf.6ce0bdcf82ab0816ad0a90b708b70701.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-CZp01WbNst8Zp8JEEaMf_jpg.rf.ab63ab035a44306a69e2a81f4c9d7eab.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-d4mvDhnesFzpCNAmqK7Y_jpg.rf.6440cd1902a342dc39f74b620e840dcc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-dlvZGCJ8mtK6e4ENozRc_jpg.rf.1454b821c8f5bfe8bea5311493e82060.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-dTtdXUDvpQp5ElWgrGZu_jpg.rf.c95919dd842b50a2e131a0c20439439f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-eaPby22BoMgPJOQI1gpd_jpg.rf.3cfd0e758646a16d11e747a70bda68be.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-EDmkcHgtvcXWd6XzqnnW_jpg.rf.893969d246cb56ba258c7d1f1bf000da.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ElQeu9g8nQBaH0v1U7cI_jpg.rf.6bbea4ab119a225d4940548c6ea7fdc2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-F4vRDFOGli38h93n9S1X_jpg.rf.713d9320ea731074c2dd1a15b6e41f18.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-fdfRwwodY5rR5gmQe5Vx_jpg.rf.1cbffa4497020d636aefa903ab04bf82.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-fi3GH7qmoRX8yjQkoseV_jpg.rf.b845c77a6ac088bff6738b8211e2e91f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-fPzQbvCfrhyjbsFOVfOH_jpg.rf.d2ba24f392f723fa8906d6e306e88c74.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-fRuiPSFomlSCDCs7UEcf_jpg.rf.d3ca3a26c256c20df356bc23071b0ffe.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-g1X5tOs8mOPYSlKE88st_jpg.rf.06b0ef5f80af100727b6a46e55cfd2b9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-g55tzDX9tYBtJrAvwFM0_jpg.rf.ad500b268f98ac0af9660a90648662c2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-GeAKfeSRY9CWkmoW6HXc_jpg.rf.3a9b269c0b827d6c083fad2a57b8a746.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-GpNTn5V2fGX4F8V9fLER_jpg.rf.549aa0ed3862d17b68cec8df1125a050.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-GUkZQMSPVYPx5eLV6BnL_jpg.rf.ba94fd0982d85287e5e706d6981c97f8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-gvTUn7La0zNCFeZ8ATNS_jpg.rf.0f7d50013aec410ec968bbccec0c0de5.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-HJkMhCGDXdlIlHRd2guX_jpg.rf.b1db9d478e6a06833536c79a2d57c45b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-HtE7zwz1DuwMqitvUkhc_jpg.rf.4b3da17b3b6307e7cc9a6617f2c89154.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Ig9a4QI3lgi7d5Ti5gvN_jpg.rf.096fc1698a9f39544b60be24f7d02c30.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ihSqNkFn4dmV5eUYYXAJ_jpg.rf.c241a4ea606b0cf78e53ef3a5080a4e4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-j2RSU96JqOqFPIHacsgT_jpg.rf.fea7d6416e254d45a3ef9952d36e8ee6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-J5CBLlutRAufkQYaYQsR_jpg.rf.f56f35e98ee6fea479dc829ce8257a93.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-jClvWFqTrDxNI3WhZ99O_jpg.rf.3baf32ca5e73c9cec578d2e81104e6e5.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-jD8Sv7IrFluPFkrvGknH_jpg.rf.3be0f39e42e103edd87a9bfa9a6b669d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-jnlOwtgSDAzd0B3pNxMA_jpg.rf.3a7984f649310874a37b7f5a1e0e87dd.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-juqFDPqzNcIYcjGGN8nV_jpg.rf.2d7adadf908bee5ddbda393e93908fe7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-JYwg8coGef40E2vPMm9u_jpg.rf.ff4232dc11fbd64edcb0a75878189d09.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-k0AjTySykUPw5hP0ueC9_jpg.rf.f3b50ee298aeee8a757cb655b60958c8.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-KaoxMmUmJJ0r1Ia3AxDX_jpg.rf.5512a27d75d5f82ebec2596b98b7d172.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-kd07yASnBP3p1kGJkwUF_jpg.rf.cf3b79cf00a5fc56c220ebb4b0afa1bb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-kJjltteL9JX2JBAxnWNu_jpg.rf.661253331381e7f4b9fbec431add6733.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-kQERrSu4ABnkyN1SBF7N_jpg.rf.5221ee753f12ae8fbad77285f5913232.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-kwUY0zgksaNKpH8TjnrA_jpg.rf.1fc586bf46ad2c6e5a2968c0fcda41be.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-L8OwhBH0FVAn0LAd5JMU_jpg.rf.c8a8754d8e555cd97ec8708e1b2c965f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,TN_DUP05,REVIEW,trashnet_cable_manifest.csv
+suggested-lB0H6L5l0YR67RYDsm6h_jpg.rf.bb30d4c64bc7039dd74f87110297ff31.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-LEHuuoKnCsSBz7z17I9L_jpg.rf.075511eef60dca9fe6ab115187da58ec.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-LheFnL7wQsHVzts9F0bm_jpg.rf.89d98af20c8dcb62120fe93871a05ec2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-loheb2Oa6nrt33E0ynDF_jpg.rf.2c763e6a21837345e50fcf88e836a30b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-LQion8BKU5Znc82kbZ2j_jpg.rf.27be6d3fa3a7811473a8a98ddffef90e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-LTok0kcTiPgWd8iX6iLI_jpg.rf.26902fa536650388beb321eed035ad1e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-LVX8WWMdVY40kEoliWKY_jpg.rf.5a93925df9f265ac5da9e65e25cea144.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-M0BZhNSjFL9qFszvZSJm_jpg.rf.62f68c4c14b502861938708a243730e2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-mCJgkqJJBj7T9dxCBxwo_jpg.rf.53bb0646bc7deb4b08a114258071d0be.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-mIQqKGOuyNPaiyskVRKC_jpg.rf.4f7447fe430eba063cfcd5549d6cb09b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-mKQ3P2lDzcjVJspXNV68_jpg.rf.8f74706f47029f5c5c3be8cf1dc33588.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-n73yyzPaJ3xE5jKjkEoX_jpg.rf.ef0d68f9814641ff0783731052c8f0cb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-NbsKxRs3hSjJZkqcjf8d_jpg.rf.af5dc8a312f5c2b41a1b51c2cfce58ad.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-NCbktrz3rXLQV58OgLxn_jpg.rf.f79cd5bfa198cb7136204b4fcf61f5cc.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-NEVLlTs3FBrxIoqzxapr_jpg.rf.d26e5ec00f14bbc9cfa9793ab2d8c749.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-nIAOxZAOFRbC78jaTW2U_jpg.rf.437cce89697c4214ef86a77367e9e7de.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ny3I7Jl2rpcRoxSvAFwf_jpg.rf.1d9ef56c098dedab43f9b25446ba74f6.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-oDNPIM2LCpC2tiBbbsNh_jpg.rf.c59e9a9f64541e183213a22ece4d41f1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-oi2a1GKIzUcmP529XeY6_jpg.rf.5333f64324cf138a9c478ae1e0dec7e7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ois0a7ZjXQeAdptZsFBG_jpg.rf.771c0fb4cd54b910250c225512e45ee5.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Ou315JYYVCDnQTsuRCld_jpg.rf.1312f576914ebd5c79762ebe0428ed8c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-oY0fPGlc8t02AC2uoeso_jpg.rf.e4ecc1fced320bdfa7474d8845e56cd4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ozfEXF2lmaQvFiOPo4Nu_jpg.rf.44b48648de6d1a8c1f904b7ed5c35709.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-P3z1bLpdZzCRMAc1h1V8_jpg.rf.1457c33e6474a27ad248e0fcf2c0a419.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-PM39PPpmqfo7JoDFBfoR_jpg.rf.266be79815a636beae69a7d04b4aa5eb.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-pnVWgD8n9lxabbhMw6iK_jpg.rf.31f4f89873706412024db6aec9a7a58b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-psH6OTsiCWYaVlxOKYNo_jpg.rf.6aeb83f853fc36e8cf58a4de2dadbc9e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-PY0jhCG7JtVzIQrBuj72_jpg.rf.8a17377db4cbf64fd12113a8652e11b1.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-q1GcJyiaIaI8NGulkmvu_jpg.rf.ac59b8e7284529b270b5f3c0cb3f23a3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-QAFi8OIjYvu9zdVj4CJl_jpg.rf.45a50f349d24a5d80f996954484a7085.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-QB2GsuA5A7h176eekrIf_jpg.rf.32a3e83cf1e78833ccf0d82ff3abb76f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-qrxCu1ch9LykTHlVxJWw_jpg.rf.58af14d62630be91fcb04bbb55a7e189.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-QxE8NTqRZQeEGv6UJN5S_jpg.rf.9178c1ccced4abd66da46f92db7210c3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-QyiUDrEN1mJUKKe7NNjw_jpg.rf.23dcf70700be1feab4fbaff53ac6fb8c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-r8XdKTagzt97ltMOyJkl_jpg.rf.c3f218092eddb8690a1d73d04afc7f88.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-rAHEV6Fle9LhrfVZaeIj_jpg.rf.973b8d32b1324923f52ebb22d23459f4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-raLmMfZp4yhOhbpTbQr9_jpg.rf.55188339f463c26b07edbabf16099f91.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-RXLGsBD3APp2c4VEE9fR_jpg.rf.7a865bf5ec5b58a310952a16b642e4b9.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-sFdmqbygr0u3zvM4xGqT_jpg.rf.bcdf1415d5d07bf34d1474fde029431d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-T4FNarMgEuKvHwtXbC7q_jpg.rf.41a6d08a6fe0f9b75c9acfff63da9336.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-T6qpI37uTItIvwCpyKwa_jpg.rf.95f747079077727f68cad327735005f4.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-tg0uDhevLfUTCQvTjn1M_jpg.rf.e1fc21fe254c5c649eac90032f0e5f02.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-tgWSPS3ifqXJib1vZUEV_jpg.rf.493224b2e7aec6bcaaa0f112ec80dbee.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-THeRNsjywjUHAe4MSBTb_jpg.rf.e98dba18cad761baa59ec8e00a100e7d.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-tqAcA9OWGPltLzkcZIUU_jpg.rf.f09b807bb8cb30bc1f823f61798f5304.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-TVAK9622U41rSf73nsB6_jpg.rf.89f65df8b3d048fb373b07f7205b8f16.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-u1o4H4TjdUFqsNvRqbhb_jpg.rf.a1c12034f043d892c9d6c185db4bccdf.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-u2n1k2J33CzGsB3RmrTu_jpg.rf.1f2da504b4b5ef4ec5f97beb0b75a456.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-U6qSTWlmzYB1cxMTT9Mk_jpg.rf.a6715e7099ec22a5aad1478fe649752f.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-UBsX40xZmcjuJWYXqRKv_jpg.rf.972071e9f104ebc739433744cba7f425.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-uFfkaInH9R55othVSh0o_jpg.rf.bc21cb93fc8506ee4913e95687332fc0.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Uvg7FDV0uTIA7FnDVAYb_jpg.rf.f152bfe4dc4560d9fe876849d5d9eb30.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-V1i754JudTtUUEljeA7O_jpg.rf.0a3d8c8caef89ec73ffd9407e6772e99.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-V1QsE5N7lIvjqmJFuQkM_jpg.rf.242cb729edff1a1bd297b2d18bfe555e.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-VFbLHbpEACqLL6EmZAx9_jpg.rf.0a9d7e785607e731f702f16150efbe63.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-vKb0CYzd5hJGDeLHFA3J_jpg.rf.ba52b36b582c826cba435ab6c0bc34ee.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-VkFOoIVhGbCT2paJkLC6_jpg.rf.37c45d056c8c988642a5abb1aba30791.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-VmuVkw1ZiKDyZfs7lgfT_jpg.rf.5d0af1700205ed697cba525a6e799a72.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-wd98D8C3wejv8G3yTK6t_jpg.rf.ab09bb4360b50c21194184fca48afe80.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-wh8Q8IlKZ1G7mz9X95rh_jpg.rf.daa93f6e5c0b8c025cdad50024af1c8c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-xaIExYFIHR1rhdotVJ4z_jpg.rf.1b24686b9270043c183a290a7c906c85.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-XCFtJU0YBsTn3abTQgfp_jpg.rf.13f9ace45ba38a40d36f9175c4fab05c.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Y3BIaDXKLA2I56y5vG3E_jpg.rf.a941ce17c3033610e3afc457b528f192.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-yfWCfHnHL1jnqDUIwSsh_jpg.rf.d1b323b1b19b9e4ef9ff4d890d2461d2.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-YIMcYX2VGHelxIOMdhgJ_jpg.rf.dc4d3b5699d4f3c4472b2d670f5e0172.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Yl1TSSlV2nL5OoP7yPLi_jpg.rf.d4caf8fd9988bf4d0d652b428a7824f3.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-yoK6X9LEtsqsMksjOl7y_jpg.rf.eb15e3c4eb67c421332ce1e42fa0f920.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-z9x2LewE6FqSCMvxMu97_jpg.rf.903d567e2f06dd1c4f31ed5c1c4c9df7.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ZP8xhBORQjSpFQHweE0m_jpg.rf.fcf72be67d6a1f14d7c7b17e37483b2b.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+TestImage_jpg.rf.a165dad0c1926821fdbd16ca4a744d69.jpg,TrashNet++ jCDBig,train,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194132_jpg.rf.02529f602e8b9c36863816564925bcbc.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194248_jpg.rf.2a7f60a36bca1418441b56ffafb2b21a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_194511_jpg.rf.079fa4fd82e2fdc7fd6fe7ff9fe4bde6.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,TN_DUP02,REVIEW,trashnet_cable_manifest.csv
+20250616_200541_jpg.rf.0da27515773aae5d9aaedf59e87e8273.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200544_jpg.rf.27421d2babc6815f5faf3b412463190f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200558_jpg.rf.8553ef668ab602366adbb4763b1b63ac.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202053_jpg.rf.b59a739a44c74613ab03ec58beba8274.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202100_jpg.rf.4d512016c635ef1af254a0e1820a652a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202106_jpg.rf.b287b4d339b7a7e62431baad83f5acb9.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202120_jpg.rf.2e50bfb016743ee38fe742125e2c6d21.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202133_jpg.rf.ecee66cfc8c9d5b19279d049316e9404.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202352_jpg.rf.9d8563e13fa4a297d4c5421e95de2a2a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202416_jpg.rf.5cb4eff8a94b04fae8ea72355abb188d.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202419_jpg.rf.4a09cb891af3b3147b9f46cf8f51849e.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202424_jpg.rf.04c255f2d40e4b61b765156dc5552ea8.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202428_jpg.rf.7540b19634b75646cccdbfc207c8a9e3.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202430_jpg.rf.5707aa250237aef14a918e38a3c08a43.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202446_jpg.rf.fa09e3506ab5947a01a7c77138f6cfd3.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202448_jpg.rf.d55094a176e61da8c24be9e8ca669363.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202504_jpg.rf.6b1cd695321d86349c7a138cd7360158.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202538_jpg.rf.0f996e9ca13e427cfe044bfc352febdc.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202540_jpg.rf.39ca995e1268b695f9e35ef748641d07.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202545_jpg.rf.a2a07a4664fae35efbd5c7e68f81e390.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202627_jpg.rf.ab2263ec5674102b93d1a1f80a3a5e6f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202652_jpg.rf.e03c09c5d1f5efaf4f5e0c70e3790d34.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202718_jpg.rf.6fb2305d18ef1c9c65b1f05b56c30a6f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202736_jpg.rf.8e983b17a4d8acfa5dcf9d9605a48617.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_203611_jpg.rf.5f1429aecf9ae338fc8d9af9ee11b972.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,TN_DUP04,REVIEW,trashnet_cable_manifest.csv
+20250616_203957_jpg.rf.117195a034ad021ecaa94e0e1f36bb3c.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204042_jpg.rf.cd47eeca50f6ba2c9c054a2996d41e1a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204045_jpg.rf.0dc10e1f490ae7ee38dd8a13de8621e7.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204103_jpg.rf.a8dace1a5960b7e796f3195476e76e26.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204124_jpg.rf.bb27d41f137a47346fca214f13e97923.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204138_jpg.rf.8872dfb08b95ffacd2f4df0034d51d3d.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204156_jpg.rf.793b61bcb48615a8b0b1fc7b31f00618.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204213_jpg.rf.a9127b46b96f531913a71338899c8e67.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204256_jpg.rf.8c310001eda1d29389d951d6c50f6f24.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204333_jpg.rf.8013f3ea7f07f5810e8cce706e67f41f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204409_jpg.rf.48403f0227af12b14bd86a4851c83e8a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204424_jpg.rf.15cbdae23506a4a166a85ddf999fa5a7.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204453_jpg.rf.654f1da3fac7e99fa8ac4d2cf14e73ee.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204502_jpg.rf.f0bc0f4759b8322d1bc1e1196afeabb6.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204617_jpg.rf.322e68e1d77958520656208f7888657a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205010_jpg.rf.b24f4b864cc6f29468f01c88178de94a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205327_jpg.rf.94c22dc4fbf795fef096d60649b8fc1f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205350_jpg.rf.76705d6b9104cbc5154d51eb9cca2d5b.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205538_jpg.rf.beb92b9780974659515757d75deaaa62.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205556_jpg.rf.3899afb2a9f651e6ec90fd41f9ec3e50.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+images_jpg.rf.9d29766a2d7e202f887b88d79feee620.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_11_2025-06-09_00-32-40_jpg.rf.5f53d917ff1d0b38220ccb4d9510ff2c.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_13_2025-06-09_00-40-51_jpg.rf.d62f48b1f1ccad7b4db85772dbe0641d.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_14_2025-06-09_00-40-51_jpg.rf.1a070867fc28b66213fc643e3530a011.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_14_2025-06-09_00-41-43_jpg.rf.dd3d2b30afddb4a4787e88919591834f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_16_2025-03-31_01-14-55_jpg.rf.0c0b3a71db57a4a5c3802de8eeac2548.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_16_2025-06-09_00-32-40_jpg.rf.bd74f6b8a34d5b367fc161d43d1e209d.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_18_2025-03-31_01-14-55_jpg.rf.ab11a9b4a7084025887819bdfa995995.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_18_2025-06-09_00-32-40_jpg.rf.1d6f5bf262bc066735b345716636c29c.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_18_2025-06-09_00-40-51_jpg.rf.4e12d96f9544a198f4e855d20e88fbf1.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_19_2025-06-09_00-40-51_jpg.rf.02293c61a84cc02fafa1cf9061868343.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_1_2025-06-09_00-40-51_jpg.rf.00a128f80b19ab1f867158eb0443a13f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_1_2025-06-09_00-41-43_jpg.rf.42f20a8c20c0ac4ad0d874449c85e6db.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_20_2025-06-09_00-32-40_jpg.rf.aa2d8706ab3164dde597d42971b87e6a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_21_2025-06-09_00-41-43_jpg.rf.bd103c4798339434cc5718a90cad591d.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_25_2025-06-09_00-32-40_jpg.rf.cfd068d63a9cf3e7af6c123a7d756104.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_28_2025-06-09_00-32-40_jpg.rf.87fbe1b91a747f4f37a8af19988b793a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_29_2025-06-09_00-40-51_jpg.rf.f2a82a05723116624a61dcbd946984d5.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_2_2025-06-09_00-32-40_jpg.rf.90b0e47a73536f72cddca768b0c85734.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_32_2025-06-09_00-40-51_jpg.rf.888d7713cd8056bdd2ad09bc78277f10.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_33_2025-06-09_00-32-40_jpg.rf.7c5fd0d0c3ddb4f607cc7bfff3bdb667.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_33_2025-06-09_00-40-51_jpg.rf.b184aa4e31578da2fb4d113bbffcb9f3.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_35_2025-06-09_00-40-51_jpg.rf.0cb9d670c73db17cb4246138318fa359.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_44_2025-06-09_00-32-40_jpg.rf.f643c161b5489f5949d4ee40aeae8e6f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_50_2025-06-09_00-32-40_jpg.rf.083acbfc74bd9757f82a3fa070554086.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_52_2025-06-09_00-39-57_jpg.rf.0794317bee3cdb07a57c53967cf0ca8d.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_5_2025-03-31_01-14-55_jpg.rf.9d0d49e43791279a395f708e1e24a8cd.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_60_2025-06-09_00-39-58_jpg.rf.f151ab58484eb35effc164abbaaea69d.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_60_2025-06-09_00-40-51_jpg.rf.c186dbc21a37b524319130d66138c740.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_64_2025-06-09_00-40-51_jpg.rf.c51544ed3a1d0486ea0be796339e71cb.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_65_2025-06-09_00-32-40_jpg.rf.4bcee64de8909bedbc16506a0c00275a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_66_2025-06-09_00-39-58_jpg.rf.99b7c1c89d3cae994e3cb40147ad7ec3.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_67_2025-06-09_00-40-51_jpg.rf.a0581d6434fe86fd131912a94854fb8e.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_6_2025-06-09_00-32-40_jpg.rf.def20a82f72fdcde2fd0309b8f7f9085.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_6_2025-06-09_00-39-57_jpg.rf.a8d7f6ddfe1ccce3c87fdec24a43a46e.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_71_2025-06-09_00-32-40_jpg.rf.043a59aec429d9197659beb1df0ab209.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_72_2025-06-09_00-32-40_jpg.rf.a23cabcb005f9e8eb2f392079ccd8678.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_73_2025-06-09_00-32-40_jpg.rf.1736d0ab3708921ce4e642a584c8308e.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_76_2025-06-09_00-32-40_jpg.rf.04f35cf44219afcd5e967fe0e34da9af.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_78_2025-06-09_00-32-40_jpg.rf.49a879580188d47d0e9a1b2832df5863.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_78_2025-06-09_00-39-58_jpg.rf.11b2c5a661b5b673f6c524d933fd4e90.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_7_2025-06-09_00-40-51_jpg.rf.cbc85a2462e38837fd9c19a0f9bc4f49.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_83_2025-06-09_00-40-51_jpg.rf.a08a1ad3381518a0a02f555bce02beb7.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_85_2025-06-09_00-39-58_jpg.rf.130764f89915387542e8c4e26b9fe443.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_86_2025-06-09_00-40-51_jpg.rf.75cc25ad698adb0bb5718a602f33f68a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_87_2025-06-09_00-40-51_jpg.rf.1b1cd8fa4b0f37559e18e8030b37e2ac.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_90_2025-06-09_00-32-40_jpg.rf.652afeaa3a77741ab16c27679a44caaa.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_91_2025-06-09_00-40-51_jpg.rf.6c455c8ee49187751d3e6f36fe600532.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_92_2025-06-09_00-32-40_jpg.rf.1331b07ace1a06cf9a6d37dfabcd0bf1.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_92_2025-06-09_00-40-51_jpg.rf.202c8c2db6e093ed0e159e7a72cb7122.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_9_2025-06-09_00-39-57_jpg.rf.9ab6557a673b68c531a173c0f266697b.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-2ILFNEID6WMNnkNYy8G7_jpg.rf.b9b0b99292d088fd085491c4d462665c.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-2Ysm7otGy6cScgBIrmNj_jpg.rf.06eb7a89ab2cb7f30fef32a270f6706a.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-4TWyFKymovorwpeB0fD4_jpg.rf.730f1a0b61e63e2cda4b746436d05db4.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-7O6UA7JTez0EjfB4Q4wR_jpg.rf.c06d170f1c2af7168fb8b7f0d08c507e.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-8ObXBF3WjISKIgm6qsC2_jpg.rf.b60ae93cc91bea5303da09fdfab1f353.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-9UNQuA1dirGDqrhmKdD9_jpg.rf.b5f42b4f193ae7b595efcf0fe518beb1.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-a4L7O23vKmeuNPnnGosk_jpg.rf.0ba697721305911ad5fbf47324b8247c.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-AnwBN0E9oEr0DA6KQzl3_jpg.rf.02ff8d3e0cda7df09f67d1279cee0b8b.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-demC9Zwx1IDt5RUS8HLA_jpg.rf.26497e508f00f76f149604c87fc63e78.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-DJ32SjQHvyxmrtZdQWsB_jpg.rf.423989bb78add7de4ee674735739fa70.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-f3F4MIftmTVkS0NeveQ4_jpg.rf.54f9f3da60e6df0a4fa24f04eac925bc.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-G2UxYCE9JHFxzY2cwtA8_jpg.rf.418059974a0e58abf9d286fa65b3b613.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-IeCzw7B6zc5lZmkadD4a_jpg.rf.f3aee21e47b5bd40fb354b247122a116.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-KbDNd4YE7FHI8jIqPei7_jpg.rf.9d6025daf9603832d3d0c259019641bb.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-kv6nQi12OBTOyZ6NcmMl_jpg.rf.6be7b5652f260a7c33936191883eb835.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-kZtcZlIPeJWQN1o0jMJv_jpg.rf.779fe30a9b705a30d568a81079125374.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-lKghjBfOPLZ8BA99vvV7_jpg.rf.20d0f24ef4192704314dd40f4bd0fec2.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-mQUuZiuGSUhwR2TkQSZG_jpg.rf.9e0304901373daf5a3e922b9170b2543.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Nlg7JDXjVtwlrzwO54Ps_jpg.rf.250b1378967a27dd8a38b0f52a7f1227.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-P2mQ6hXriyS6ktC6vpk2_jpg.rf.9f6b755d6f6a04a91906c637d8f5c281.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-PCxjXngmRWLD8E6SLRzd_jpg.rf.aa917e4d61727f2ad02f07fe45fd8501.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-plCyr0osOseYcQm3Njgl_jpg.rf.30f405eae95e98704b1e98d20f68feea.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Pzerc0QqiBQsJbzdnAgn_jpg.rf.f1832f08ec0c2748f907599aa65bf48d.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-rFMfhe24LnmwaUyAN1m2_jpg.rf.015a5d5a67374f2c9ff17e5a8781ca31.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-RgF5AgK5qIX45M9pkhpS_jpg.rf.945d57550fcc6b6e9ecfc20c3ff72e5f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-rMb8KwbEt5HAhARQg3J5_jpg.rf.48d0d536798247063226a7c6db5cb12f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ROlDb05MgZN4InKefmUL_jpg.rf.decf387320cf14ad298ca0460ec9ef58.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-rqbnPT3EGVnJNXIA86r8_jpg.rf.9a172de10e2d4f409baa03a6a1774839.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-SB7IMjDnBaNwDPBgmjSr_jpg.rf.f48410f9b615b30d31254c9bde00803e.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-SWI1dDpIEbmdqo7gpglm_jpg.rf.5a19f62633e0b6e0e2a0ec591070fa1c.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-TXmzxeMCsIlIvQe9M5W7_jpg.rf.3122e1ea42f3d6c88bc28c34b2beee29.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-vJ0h4IWAQaYcBaSGPBiO_jpg.rf.4e0ac4e950e6d6b80af1c49d1fe2ef26.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-vTmHlZPFxV2lCvXJRg7V_jpg.rf.a313c9cc33cbf4bfec1818e0f5866773.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-VW3JE0akpDCKzdeT3SW7_jpg.rf.36cf328c302f1fcb2125b67438c8cf0f.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-xXBmLYVdLWqLyFa8M6tB_jpg.rf.8fffeedc1a8fed599dec213264ca6b75.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-XxOcbQNUXK42jUMglLx4_jpg.rf.8a2a9d6ee72d4520e37c648112a68506.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Zr58sp9G3aUSL1ChL0R2_jpg.rf.ecaa9eba86a7cfde816f05d16a0515dc.jpg,TrashNet++ jCDBig,valid,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_200615_jpg.rf.d3b1f1f225e228bede1a9dde10bf689f.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202051_jpg.rf.6ceb4ed4179fa6b1a21d812604eb0f67.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202104_jpg.rf.ea4ec577851d0c2ccc92abddc3adc7ce.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202108_jpg.rf.481716af55327b4569c7b0befb0342b4.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202406_jpg.rf.30b250a5987338bdac2acb7b90e58123.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202557_jpg.rf.aa210064f6ad597b1aacb224963b73a3.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202649_jpg.rf.46d117902ad7bde744d2400b881f7c00.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_202738_jpg.rf.ab6c5192c96647a0f498018c24b432aa.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204231_jpg.rf.0bd2a1d70a004b70fb28dea813fb00ae.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204302_jpg.rf.e8e540aa7cb7bf2f1b14f98810e4980c.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204408_jpg.rf.daa41e455dd4c89646930f7caf94e11b.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_204416_jpg.rf.1531cf37b699055fcfe0b30ed2dbd875.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205244_jpg.rf.da5d493fc65465c042ac504c3b4440ae.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+20250616_205318_jpg.rf.8e32ce11819d76d165fe495cdc883e0f.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_10_2025-06-09_00-39-57_jpg.rf.e1312b3c0a149d95c30e9c218083b72b.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_13_2025-03-31_01-14-55_jpg.rf.00e5d1e4148e45e82b0a782799134945.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_15_2025-06-09_00-40-51_jpg.rf.fe5676f270545bb2097856c35e159449.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_16_2025-06-09_00-40-51_jpg.rf.14dbf918c7e8fff830c0324da8c19507.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_25_2025-06-09_00-41-43_jpg.rf.66bcdd9019e0e7a371a9cb5441477615.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_28_2025-06-09_00-41-43_jpg.rf.205784aabafa5a037f31c38e7873be81.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_30_2025-06-09_00-41-43_jpg.rf.0b861ceddd727ac215f3ae2ee3a6e3bc.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_41_2025-06-09_00-32-40_jpg.rf.8ce8706f6071c4f5476044c8604828a7.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_4_2025-06-09_00-41-43_jpg.rf.82cb349b5c1e773f3984001b199d0c1e.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_51_2025-06-09_00-40-51_jpg.rf.2e64c1056a8a69097597a33945a95883.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_52_2025-06-09_00-32-40_jpg.rf.34e0394b205986ac849cacf1002bacc0.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_59_2025-06-09_00-40-51_jpg.rf.29906dc0c792e0b4877f03c2c4f006b4.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_61_2025-06-09_00-40-51_jpg.rf.0b581ecbb56b74003952a88617257cc6.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_6_2025-03-31_01-14-55_jpg.rf.ea8ccfd188b1564b2d4adb46212c0f92.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_73_2025-06-09_00-40-51_jpg.rf.36c07d20b942e6526bb86e5aac36f695.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_76_2025-06-09_00-40-51_jpg.rf.54cbd003674d0eb80c505b5f6aff40fc.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_77_2025-06-09_00-32-40_jpg.rf.98e77917b39ad9f4e08ffbb7ec1cec8a.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_7_2025-06-09_00-32-40_jpg.rf.c88d57318a74f322420b401a2096c9ff.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_83_2025-06-09_00-32-40_jpg.rf.295741650038b265f3cbbbd0d2e917d3.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_85_2025-06-09_00-40-51_jpg.rf.643a92816ed204de00224f8c226b3242.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_88_2025-06-09_00-40-51_jpg.rf.f86f0005a080689ea19668356f477025.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_90_2025-06-09_00-40-51_jpg.rf.83624d19bbfe775fbf981ea6c7db00a8.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_93_2025-06-09_00-32-40_jpg.rf.cd4ce1a9e7f1d3b7c557ac12750f9e9b.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_96_2025-06-09_00-39-58_jpg.rf.6e9975e6e91c1f85e65839fa2bac1219.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+photo_99_2025-06-09_00-40-51_jpg.rf.a67ab961d8de2476e1ac6f8a8e119864.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-2qCJRmlH3styLUapTp1f_jpg.rf.0572b5c066237fd7179a767f289d80e6.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,TN_DUP05,REVIEW,trashnet_cable_manifest.csv
+suggested-79lMSjoHei7tQtesM32B_jpg.rf.1d2b3ba222e553082ec91d52c88badf5.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-BxtMqlSr0TY7oLpZm530_jpg.rf.4e7b6e2c1a03703c45dd84fa2457c945.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-DuEpIG8jX9bMNjAmjoTG_jpg.rf.0693163286347bb10093a8f074659e2c.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-dYqOTN0r45B2X8h2o5F0_jpg.rf.0d9c24eb0229ccf4ca0e4ae3f5321e60.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-HN8KzxZsyiOWTImyqeZG_jpg.rf.80bc664dad627c9f1747bd80e05cab00.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Hu71WQr1coOzOo1WA9Y5_jpg.rf.b24eb58221094a39f737eaa54551e096.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-jV3u95f8utr5rcC1yohs_jpg.rf.0a590b2e6523dd61bbb8b0c8a4c07740.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-jy21TvWkXEEXYDvrcJas_jpg.rf.5cd51efc746e7bf40e96b719bf2b518b.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ldkIApzIz2fUZJQuH4hE_jpg.rf.e170bf0fd8b989742e60634f75ca4810.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-LObAsV41oND5cFl3rZ15_jpg.rf.b3471896a45e9718381c34107fb5820d.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-LVWy8AZl0rJ7PILSzR6c_jpg.rf.38e821f3263e4e3ba4bd50892478a554.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-mNh8jXIiUDDyPqDyiwXf_jpg.rf.5778c3eee5b08ebef70de0156f901a0f.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-o3xR1hSNORerrzJWrl1r_jpg.rf.c2874e77f3bb3ed6bdde86ec82d9b0dd.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-oaI6OppPfKdcUYuDowcB_jpg.rf.a4176a0dfbe4ba741ada0c79e2cd242f.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Oxx1liglrK8LezkYKsNn_jpg.rf.c62b0515a5224ccc93acb562b14f9f3c.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-Q1yRbusdlUtPI0swR9Xh_jpg.rf.f61e7cac80f581b20f3c2a6b5bfab809.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-RgAEBdEy6hahw2wFz8Qo_jpg.rf.da126c3bfdceabc803b9191fbbd727b6.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-rKbGH4v1EBuO1TXRinY7_jpg.rf.4726d79ae8b74d131a21bf4d936980dc.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-TMjdqA5A3QTcUiEXLsk8_jpg.rf.decd828de39d11a9aeb4e90e0f5c43ab.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-TZjgplI1Ce613oVFvpzW_jpg.rf.182a0b115c2b3fc6a39d0b4ae6e5724f.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-U6PJtCa4L3MDDo4Lh126_jpg.rf.f3939cd4c7ad1d2bde5d31c42fae5155.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ucNkpC1PPvS0ZOPLQySQ_jpg.rf.da4a552e420d1c34d3855c34d8ce251b.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-VSvYz7mAhGF247SQeZDC_jpg.rf.cf990b45ffba224385883a0fbbc8e63e.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-WjKtnAYpRIoTPsj3f1vk_jpg.rf.d4d9413e3e00c4050c2aec366d2776a1.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-y4nrRHSS6Y4n8MsojCYa_jpg.rf.c1d4966f38f9f4c3660d27c6a0931bd3.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+suggested-ZL9sK8BPVhUJ7tDU4llj_jpg.rf.2e1dc5790dd3a72611e37d369092482c.jpg,TrashNet++ jCDBig,test,Cable,cable_plug,,REVIEW,trashnet_cable_manifest.csv
+-_20230808173632_1_jpg.rf.accf9ac70ca142e38de5159ea98b9b6e.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_20230808173635_1_jpg.rf.6dd01c0c7c4de72754188a893c998e41.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_20230808173636_jpg.rf.bc9914320d3cd446b68fe07d0edf6e17.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_20230808173637_1_jpg.rf.ea650df5330861db63b4df07451ee6fc.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_20230808173637_jpg.rf.4724f281f7c69e8d8d38b1b7de7841aa.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_20230808173640_2_jpg.rf.bb0e8c8cb5a0dba2ea7a77881e830089.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_20230808175717_jpg.rf.8d22a15b31730d652ab2d394ab2f95cc.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_20230808175720_jpg.rf.6bb6612b07bf066fb46dd956b01f7865.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_20230808175743_jpg.rf.934ad69025ec6ff7ef4de2be5f6561af.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+-_57_jpg.rf.e85c72a44c02ba6dbb2d6463e2851b7b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0027c78a8dd75d6d02ddbdfacc73861b_jpg.rf.3067f202849b0aa88cd55b57bbd6da64.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+030d227a36ea978c81e66a65b45c5cf6_jpeg.rf.b0b1339ff6899d50a6714e938b1eb634.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+031034eb212f19d76c273fae976a8597_jpeg.rf.5424a7c81f890234d4f58050e173fbe0.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+06dad554afb405c6bba973ce3cc2da66_jpeg.rf.404f9e1eb87223c642e59b36be9f434a.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+09ad294669bafe67e82bad3a97adf08d_jpg.rf.411e87ad325c4e67a6acfad6ce91216d.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0aa2cb897e396121736326be0a0ef649_jpeg.rf.df27a635f80d97cb0730fba934f509d8.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0ab0614400a279b56b288f595e4f7fe8_jpg.rf.0c8bfa14a04389c08795b5a0c14950ba.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0aeb54d081a9472b9c709ce609cd4b6b_jpg.rf.2df5e5bd8207ac25dd3801182a59b7e1.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0c0f82fdead65c16b9da12c10dab4ba7_jpg.rf.b6a080f30bb6bad43ce94a3ca561fb8b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0c569b3746b0d44c0c8c89ca4207caf9_jpg.rf.5f28e66818a412549dfdd68a0ee5afc0.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0dd16535abf6e7c4290238932b9dbfe5_jpeg.rf.15e0cad4eaef5a5d218f25ce66fb359e.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0e844e3914ebdf1df31d10623c161ff0_jpg.rf.728425cc34363f0b25a19eca90cf87a4.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0f024417cf0d8c4fe8da3c16591e1d22_jpeg.rf.58c49529f17ab9fa123b4bc3961171ca.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0fde184c7411b1df54dd7bee6471d697_jpg.rf.dd0276aa98d40f4d177e47b08375f985.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+0ffd4aceca8a053c0d61ddcc4091c73d_jpg.rf.2e1641a7166acd041c7e6ae5801bc4d0.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,RF_DUP01,REVIEW,cables_roboflow_manifest.csv
+10215_3472_045_jpg.rf.f047228809668966094d0a39bc971420.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+10c4896f4334cc40bed75189b8285ed5_jpg.rf.b09c30edf453fff162c10d40fbf7f9a0.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+11_png.rf.4d296c4981cb8df0b3dcee943961b646.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+120f3bb665946116cde9154708ba3cfc_jpg.rf.e87d3c853ea86fc36f7e051e0f3db1ae.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+12_png.rf.5420b2308e60091173504a52238a88d0.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+15_png.rf.b9506caab1182fc2c54594cb2a4c5b4a.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+167b3f040072f10928e4ba8ebac83e0d_jpg.rf.bcd68806045545a0c72565be7694c90f.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+16_png.rf.70eb743f01b105d5d889838a98ac8a20.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+18_png.rf.d9724272e69dffb14848f6251bce2002.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1902b68182b811fb186973dd20de4b92_jpg.rf.7d68867415224e015ed8634dc928e644.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+19308359ba7830597cffa9c6acb4cb88_jpg.rf.3ba7950c77d06ce895931ab2d73a6105.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+19_png.rf.3f45fbf910abb2ab0ad7a4f9b1b6fbda.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1a316c2cc286bc99d346ca8a00aff642_jpg.rf.69fcaaa5dc3e646e66ae8502c46a2e29.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1acf6712afcc1a740d6e5bacdf62dc69_jpg.rf.6097e9207881c8496d5f327194dce800.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1ae7d1d4a8a61464bb24b9f7b80ff275_jpg.rf.b933a91bca42443979c06f0ca0bd882d.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1b04f7fa4f193a3b1b712dc79227220c_jpg.rf.0b11a634aae47020248b5e7a21a79984.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1c71da33ee42abab1a10c37687f350b2_jpg.rf.66e58d79b7340c8da662ae35910138ac.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1cd046a033494982a593c04055330a99_jpg.rf.e253fef50aaa3e33650c389db294e1b6.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1df89f5db5378c77db757f694251e828_jpg.rf.b4e2b65e7e4bba5819b5424fc0360eb1.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1e28f902150d624e6d32cb177af4bc5e_jpg.rf.36779151d2537120c984949d998fa968.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+1_png.rf.cc50a4cf63c0bf8bfabd525e8d4ca3de.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+20220524162847_271_jpg.rf.cdf50d157580e25d5b5be743fd3c5f5a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+20a570e7bcf746974bcefc0df7beb797_jpeg.rf.4cf32cd537893485f871daa333318bad.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+20_png.rf.1f1c9b704cdbf9bae60903e94d8f31ba.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP02,REVIEW,cables_roboflow_manifest.csv
+215d0c1aa59a10224e25c77948b05dd8_jpg.rf.09eaccaba89c1533c444e903ec086742.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+21_jpg.rf.ade1a1a5e06e01ec21a285dfd4412194.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+21_png.rf.492b8243ab751d28e7748570cf50b333.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+223376f97f0490b48c6cd5b2a522ac0f_jpg.rf.f9498d0dc5402de76773aa243171d37e.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+228230e5482d3e65752afbf56897751f_jpg.rf.981929f17ad2b453dd68b162cc0a3059.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+22_jpg.rf.0350532ac16636de222ca54017e53a15.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+22_jpg.rf.bb1a5c74ae7e0400517c4db513b60f57.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+22_png.rf.23bbb12e7010f44c9e50e72667f316d4.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+23_jpg.rf.d6914f96da329c62f55874a103c2e5fe.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+23_jpg.rf.db1c3e38fbd23f9fab60bf9b46e409f7.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+23_png.rf.f4098ebed23652885e14891d6a5355c8.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+24_png.rf.0e5a8274c16c391bac2a790ccf18b8d4.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+26366558c5e8f4aee731d0c6a0df6b70_jpeg.rf.5118b55093eeb570178bd1ae598a01ee.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+26a97e6ed1d8b220929e746e49256fe2_jpg.rf.cc2909299f7d1fba8593e8aee1df8b2d.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+273fd4eff55347d0458d7a196bc3ccc1_jpeg.rf.9dd058c2e00323d0bbf3708cbc285150.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+2996fc16399a6006311521341803d993_jpg.rf.5180b1506b28229594270d5ecb08a31a.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+29_png.rf.19a88027527e0109af6fcf53682a9c2c.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+2c7abc79455a39aa0ae51890281d1ec5_png.rf.04384838df77a174e09038edf1d4c11c.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+2cbde06d7982bcea99466704af0aeabe_jpg.rf.f19f8004aa617e686d6ceebd24408b27.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+302b0d456d2f226eadfb809058a20818_jpg.rf.559cba1866460749888c7f0071ecefe9.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+30_png.rf.db2d977faa8a556b988a320779fedc2e.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+3117b6d6720cf876b7fc271e017e3d14_jpg.rf.92cb44ab0396628748a38f0794820177.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+316udO8E1KL__AC_UF350-350_QL80__jpg.rf.f523b0f620222b38ff2815e85ee467a1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+31_png.rf.da813e108e519237447d607956b8c53f.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+32_jpg.rf.613917875f90e2a84286951c1936c8ce.jpg,Cables Roboflow v1,train,cable wire,cable_plug,RF_DUP03,REVIEW,cables_roboflow_manifest.csv
+32_jpg.rf.e82abef3e38b39ccfe90d55909e9b538.jpg,Cables Roboflow v1,train,cable wire,cable_plug,RF_DUP03,REVIEW,cables_roboflow_manifest.csv
+32_png.rf.7ed17829b451ee3863b6b1f4a51a2326.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+348360231_137721992647754_2873432383437491315_n_jpg.rf.a0a868e3e2b3ed0e804ea859bca18cc4.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+34_png.rf.299ea92f2470a97150627f3d3e1c28cf.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+351724c2b3327d7292ec9de22a31effa_jpeg.rf.bd04d24e9594a6608bcad92e46e6e600.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+358f7a2583ad014335d045178b5c35b2_jpg.rf.b332ce4f73c524ee4900b406039ecc10.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+35_png.rf.9b9314c1a0af05ab2a43ed70505e10dd.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+363e7c1e1d2bfbdaee8c388da543448f_jpg.rf.73f57c0b410c90666ca23cd026b12ef9.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+369c1b8b59477fd21a18a791d2669cd3_jpeg.rf.2a94af5f29090bca69cf134cb65785ff.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+36_png.rf.a3ada0979822e28b0ca6cebf0f680200.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+377116895_866727094441642_196877526379177269_n_jpg.rf.6cbca7560c26d7314a6069d1131fa39e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+37_png.rf.e79e4951e2a27ad173eb4f6eed987fc5.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+38_png.rf.16d08d0a88a2271dc50ef0eba5dbd410.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP04,REVIEW,cables_roboflow_manifest.csv
+3903-000985-1_1_webp.rf.8ba0a502f8bacbd5b63a522efa6fc6a8.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP05,REVIEW,cables_roboflow_manifest.csv
+3903-001117-1_1_webp.rf.d49b5d547dc252db4ee03d91415d7ac8.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP06,REVIEW,cables_roboflow_manifest.csv
+39_png.rf.51b557616a5a539e398bdb0205d69c2e.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+3b52baa0b5dc1030829b20218dabecdb_jpg.rf.f3351a779f589acd7dd82ae0a13d34fe.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+3d-rendering-power-usb-cable-260nw-1053806393_jpg.rf.fa4302b848b05e6b47a477af1797fe38.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+3d-rendering-power-usb-cable-260nw-1053806492_jpg.rf.a90318d9a9a7e78adc4c4dada2ffa96a.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+3ece2590ee95ee1364ba066e90e79811_jpeg.rf.2563ab73b1688c6fd36db4f03f02570b.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+3_png.rf.1d89cf5c3f52421ea30ec5e279ca0deb.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+40_png.rf.4910803b9122d059ab8d235cdb7860b7.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+414GZrhChKL__UL500__jpg.rf.d09ef566e108df68faac7d469b27a251.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+416393556_769757501664910_9039747708423814430_n-1-_jpg.rf.8e73380bd92c8c2bdc150d82bcda28de.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+41DpLvPoLdL_jpg.rf.7b1f10a6fcff496eff3ed3085c85eb30.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+41F1ZL0rUWL__AC_UF894-1000_QL80__jpg.rf.ee6d94d2d59b8d083258a6e464bb2078.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+41xEYxLW6KL_jpg.rf.702bb96248ed96aff7409d15d944cd9c.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+41_png.rf.2068894ec5031f1b06bbe5093428908f.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+42_png.rf.a34ca1c1f91d251047529d2d7f4643e0.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+43_png.rf.01a86c90bf82a0f867f4b3ec6dd087e5.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP04,REVIEW,cables_roboflow_manifest.csv
+442ad749b618d9eb5ff0148f7da8e84a_jpg.rf.48075fe6beed23d7772cf2d940f5c382.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+44f1f1584e2b328fa313ebd9763d16f0_jpeg.rf.a1fec6ba427ebbe2a76736f5208e774d.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+44_png.rf.95ce998da5f3d879ffd5df9f18225a90.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+45_png.rf.858beea279492935a9b0dcce6938b738.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+46affa78d7e625a53c3c4520ad0703ac_jpg.rf.c7508d9206224e135199e431ec18bd8a.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+46_png.rf.9f5f8a87418c3a7f1fc4bb9d2effb99a.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+472742919_616313254328822_4444396005082593506_n_jpg.rf.28114cbff1c97829fab1b13c42e96ddb.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+475698444_976418037353281_7568404278413259381_n_jpg.rf.fa8e33b0408d847cf54e5e41f46e22e6.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+475768729_1142690353893875_5789582130576794770_n-1-_jpg.rf.4ee1d3a314575f9e7b854ebe4d18b329.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+475914885_2606049032914718_20616795920304582_n_jpg.rf.dd3c146da9526ee323ff213ea8e7476b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+475977978_3797962387120310_1420354877647474702_n_jpg.rf.4ac78c68aa07ad2d0752ef09aa78c514.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+476023902_500470439404201_1342196383910997877_n_jpg.rf.391d1f8266d393c08adeeb9447ada707.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+476130351_604815082167621_632177271211070342_n_jpg.rf.9c8f04eae3d08b2624b79d17ab0e6563.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+476382937_515129764946457_3173593332868016555_n_jpg.rf.f99d194520135817016bfedeeb008847.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+47d41d67079912b3f2fd65fb9e021c40_jpg.rf.894b135efa78b031581c296d477336cd.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+47_png.rf.f83c7778b4422b27989e5718a4b24b97.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+482732469_645838635085316_2346416210854955508_n_jpg.rf.6dc54ee344b54703c4d4e3bd55be3e50.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+482874698_4861920610613814_7018612676075801406_n-1-_jpg.rf.4a4cd5cb939111f0b2190330e0be5d0b.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP07,REVIEW,cables_roboflow_manifest.csv
+482921843_1843990953014343_3649979148255438859_n_jpg.rf.b1ca696ea8cc23241706ab60155570f2.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+482954677_1123901446092313_3951241987858374364_n_jpg.rf.f846b65ce7342b0ca6dc36d46ffc8c1b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+482998180_992060049740175_3788862368549064971_n_jpg.rf.72444af6f364d8a895bb89b91561100e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+484653087_644231431719037_7304026128017706562_n_jpg.rf.96ccd11fe61f36a3238d6bdfbde271d4.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+485017466_9741064805951913_7798669403685107166_n_jpg.rf.bae3fea155a2b513ab0b60617a445583.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+485952179_679467754587258_6300005875014006246_n_jpg.rf.27761dce9e547d28d16b226f8aa14a91.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+486565880_682661020906402_1218227018022120249_n_jpg.rf.7832f47b2a9aa8b1ac552e58795b7947.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487296423_1705047386774346_4012060405005113336_n_jpg.rf.02e7fdda3a701e46c9b5d3f8f540c141.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487313611_1165852185273869_106770116642032028_n_jpg.rf.9e220f3e6a5156b992dffe5be2eefba4.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487313611_1503249611088373_7976173867257686765_n_jpg.rf.af0fb885f1f524e4f40982e25a2ee693.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487537187_672946018468305_3645479978666187994_n_jpg.rf.4f1008aff67b369a99136cfad1c8859d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487700296_2043487056135629_732281087916477289_n_jpg.rf.cecce8dca73c0b474db5e4df07b3aa51.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487708224_1011787063756002_1788252411797771494_n_jpg.rf.7f20fca1e607814a53b43299d9a7f756.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487754653_563454259532641_2365401458324832637_n_jpg.rf.868211690492b86c682f5b99b9d4446f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487759041_1125068639638257_3274301871387412614_n_jpg.rf.45a55fdb6f8a7aaae7d22ed099b9a2b0.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487773204_690572509980225_6220004800616676149_n_jpg.rf.75c0ea2ec4d5c4cfbfc4e883de9b0398.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487775111_9269328803176040_6107570485807667662_n_jpg.rf.f4e709beeb6f2d53fa973d3b725ed04e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487794943_2269208156814316_2458129669811658_n_jpg.rf.1da0baf605854d248e363d22adea5c55.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487805835_2705208353021399_3388809707741319178_n_jpg.rf.fab771ec2e67559f0944a2771d17b1e4.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487822288_1039353038048669_6664146195480210743_n_jpg.rf.874f5c9c0d6297a9fa01002856ae262c.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487841269_2087219825109183_5644042294463201851_n_jpg.rf.a778d6ddb1ba30e1c9e4b4ae66a59847.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487843289_1214904450364134_2298999169925966356_n_jpg.rf.8fe4eafc464e2b8eec80702a4a9f1536.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487867241_1134140688467144_384399102569692803_n_jpg.rf.09e721a7d9ab35d6777580d32eed701b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487872037_1084825836706963_247307439948960565_n_jpg.rf.6b25235a598c05a1c08a5ef917452de1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487962173_1007469027590433_5840151494675114505_n_jpg.rf.1737b590fc0b7b555219cf17dace365d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487965675_609246625457343_2071736294527927234_n_jpg.rf.f71360023cbb6a7310b5cbf56ec50b31.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487981563_1307732226963887_2015205807809902653_n_jpg.rf.c193721e99a6f161955021e6058933c2.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487991967_2392754597739416_8092931315321464258_n_jpg.rf.1532ef44d3215ba2ab944c72fdc48737.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+487999512_546689815129197_4255443538117539010_n_jpg.rf.b63bbe5bfdb9a76c052713917208e957.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488003637_1585771242123187_2418098920585742549_n_jpg.rf.a15336dfc6aadbc6685a7ec04e561548.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488009434_1946128362585088_1615238969408597289_n_jpg.rf.0318d66054b37e1576bddcf923f44758.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488016718_1882365999205404_8750094843074123556_n_jpg.rf.acf6ec24ecf13eb0dc49c8b6fca1a834.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488024182_981396717470546_6142123465734319802_n_jpg.rf.e977fd6ea2d3fcd01d5ff08ccd224b88.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488069082_9721720434551676_1198000745648996968_n_jpg.rf.83842ff4945ed546eee5a9c794472e73.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488076421_670874045429983_5809146727809068842_n_jpg.rf.4cc3d7ca30d0fb676c93080b32459229.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP05,REVIEW,cables_roboflow_manifest.csv
+488082867_668174616050809_4470525932647267119_n_jpg.rf.e330f0ef3484d82e87d7a0242da63e0d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488098015_1171735200810197_2748873347612228661_n_jpg.rf.251b56911e33d865ecd2b5863b39e65d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488190721_1324850465393510_6868902731196286348_n_jpg.rf.9fc5e102a685e0e7af0ff0eab7da5558.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488276835_948739827428436_7192382619245469398_n_jpg.rf.cd623742fc257e5244bad5cd3f6320ea.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488302874_3196009487206215_8248506124520823862_n_jpg.rf.67a1a593aec5cdca8fb95420b9ca4e83.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488455617_537307289443281_1919258895117200600_n_jpg.rf.97bfbb924348e4f9485191cf82ba22c6.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488503220_928224495912938_8976082007485529326_n_jpg.rf.a1d96474d481fcb5ac48785d8195567f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488509241_2418732985155487_6619347140564850773_n_jpg.rf.1f007c0eb7338a13ab52c29a86e7589d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488514992_1386765725675549_1751073856942287588_n_jpg.rf.a6ae59c0d2e046b6282058bf96efb9cb.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488546196_1008988634627910_7170223564798268568_n_jpg.rf.9a49bfe43ece65fa2cfd4161a28f0ef6.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488550021_1831051527697180_4465619525136160302_n_jpg.rf.49589efb69091753a766f0403007aae6.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488554040_1726928784912711_605923302854348479_n_jpg.rf.f76e7ed73235104a0abe87780a0a690a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488610206_643043651839354_4792759092204535238_n_jpg.rf.e9dc002d12363e0476ea555dc5273a06.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488616542_1647887706087121_1850878052478771997_n_jpg.rf.c710a5dc8746d2d6bf64a1dbb1b0acbb.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488623959_1921181108707467_7273939084664987840_n_jpg.rf.2d4ba63b13e664dbb33d3d353117881b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488715635_1460164305366810_2286117743029577326_n_jpg.rf.2308e4c5aad84e43e5d7f6e904ac219b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488765313_1689607368300536_9119487288109164071_n_jpg.rf.56bf9ab96297fd78679ba25bca4a7aa3.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488770809_4047512745520885_7003870735902816077_n_jpg.rf.534ee4c01939f1cd1faba4ac5181938f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488852306_1015096013905780_4347215156572123001_n_jpg.rf.85c2aa6a1209a43a69eddafa1bd8ddb1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488864169_982175070734142_6449122938787112279_n_jpg.rf.791da5e47bcbf6fdfa446a3df7e01642.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488885203_1389535125557394_5872086455229691454_n_jpg.rf.df22469d17fbe5f535fe1091cd9a8a21.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488885203_1394885305179422_2821684743528479882_n_jpg.rf.08ed0f173344391f4cebcb73ae573956.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488896989_1205860234225516_8481078790897811491_n_jpg.rf.03283031bdc11f394a3f5c88e3802f71.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488896990_1387369875603632_6364417360522772939_n_jpg.rf.5504d147def32b01e07a464b7a5005e0.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488907867_1029194725768108_8527688954901671636_n_jpg.rf.886841eaa32c3ff98902024ec07f7b08.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488910122_649826111243333_7693187671599765622_n-1-_jpg.rf.716277adca733b069bb73333fdba6765.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488933160_664647816512852_6049524522014927200_n_jpg.rf.ea6a14ad5ab2886f0e69f36e63ce355a.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP07,REVIEW,cables_roboflow_manifest.csv
+488947178_687066913889930_3163946779805856546_n_jpg.rf.72665a448b7027bf31723dc026e437f4.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488957341_664982466479620_1112517141618949233_n_jpg.rf.17f18664b5771cb4e28d6dd7421df420.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488957604_648192834631979_8885369358320113633_n_jpg.rf.33bf36ab36e05db657a468be0324b8b2.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488962071_1036360238498986_1309186309836247763_n_jpg.rf.13990d5e29bc855407c21ffe898f2c42.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488972701_1179399259967783_5353987413759411277_n_jpg.rf.b2a70c040ebfceec58d46f5b63791d69.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488972980_1654796195914078_1980981395218128506_n_jpg.rf.d5c20b5a1b8c2dde59938f3aa7d8680b.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP08,REVIEW,cables_roboflow_manifest.csv
+488972980_705568871807182_2955061667968588816_n_jpg.rf.462162b4e966d405e24f0c7085577328.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+488992988_1016930430391228_785494059760449154_n_jpg.rf.4303695515b2e11f1c0e9bb4a48611b7.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+489035766_2073912223110047_5512283509739670674_n_jpg.rf.bcc36b1a141d1aac1586a55c913381e0.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP06,REVIEW,cables_roboflow_manifest.csv
+489296659_1390832221942959_8066476889236512444_n_jpg.rf.43013170b3732f22a87b7ecc5a958b32.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+489343518_2142139896227752_2230496875821701415_n_jpg.rf.00515edce122d84f3434eb229984843b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+489346274_946044414269061_3268024036595424788_n_jpg.rf.ca7c9b62f7532d30e160794c92e19ef8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+489528172_4030199367264398_505847363131862591_n_jpg.rf.0ae5474f50038b59bd1eeb825ba3a1aa.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+489564439_922154686641112_3538463191041642034_n_jpg.rf.97691f60867fa137f69de504780e38a1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+489577205_1420521232717144_5948317764170398156_n_jpg.rf.494981dcaa1e7772d33bb2ea5fee29b6.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+489847162_1920541285148576_6433125500255397003_n_jpg.rf.3b0399bcf219950fc84fb51c31f417f8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+489882651_700301022559512_2264942867979105741_n_jpg.rf.757cdd3700d92ffca55cdbb9dce66f86.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+48a2db4f55769f661dc50943a731a70c_png.rf.6c54fcf21c2a6688b7324d730bfb5bf8.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+48_jpg.rf.7d3518fcef87b04dfa2bec5cdd11b625.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+48_png.rf.f191a1da2cca927371b2891f0d561229.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+490064964_662220613119185_2458314348443758919_n_jpg.rf.7aef8e49c117778bec20327fbbc73d2a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+490195123_1375460723352977_1238662045770858492_n_jpg.rf.f2d019bd93932b3aa5abcb167c42ae56.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+49038367b0242cfddbd372b9356cf31e_jpg.rf.de7b8e8076da562bee9221de268233e4.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+490cda1622fbb3d716bca2edcb5db51b_jpg.rf.8987503ac85011370bdb34cbe3096e11.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+49_jpg.rf.7834eee583a0cca80fbf4181bb3af30e.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+49_png.rf.808ce7e6cbe3d9e9ed05c14e4d474ff6.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP02,REVIEW,cables_roboflow_manifest.csv
+4c14517fa053cf2c357024be4425ad75_jpg.rf.672728ea9550bce7df6c3c6e94ef2e3d.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+4_png.rf.dcdf1a90e5b9c23cf9f3d37c961691ec.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+500ad05812315e7ea3a16e0f9a266635_jpg.rf.c23e1221c4fcff80739a814630e52c69.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+50ef0685051b192481e93d42b8abd877_jpg.rf.47b73eb25c91e45c7b3a6deb656823d2.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+50_png.rf.7eed5680b2f5937a4b5d9265cc3357ed.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+51-5qPmQ3BL_jpg.rf.fcbeb32aa01ccfb48e5ae951ead438a5.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+51E4ZqbSsjL__AC_UF894-1000_QL80__jpg.rf.94fec5801f47b05382d229eee05f5df2.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+51hHSwQhOdL__AC_UF894-1000_QL80__jpg.rf.f562fba16df2f2871b3cc014f8d50f8d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+51kcm2d6I7L_jpg.rf.23dd5f9d3de25a0ad5af347a92a68fb7.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP09,REVIEW,cables_roboflow_manifest.csv
+51lO8GawIzL_jpg.rf.355f9324fcf80f3a7886ef2e24beb14f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+51r53-h11fL__AC_UF1000-1000_QL80__jpg.rf.b58ad84946064e28a56923f7eeb75d2e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+51RBMhFtpJL_jpg.rf.d5fda9c3a0f75b2b47a61438ebc2beb1.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP09,REVIEW,cables_roboflow_manifest.csv
+51UwI0FKj5L__AC_UF1000-1000_QL80__jpg.rf.7b2c3ac49d971d83fe300d190d3aab3c.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+51_png.rf.bc84444cfb7302562c285d13ad5aec54.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+52_png.rf.f1366a0efc3390f6a0847745f7836d7c.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+544a699a30d5dca437f2a711a5d67d0c_jpg.rf.1e27b3500d09ac4b6e112b9156ca1fe6.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+5606dd168537edbf499fb879a5950b31_jpg.rf.3048ea9ecdf81b054182becac529ad78.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+56200e51fec2fdc00e5322bb3c3176ac_jpg.rf.307e436790b5152e5d62b89b01e749bc.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+56624dfa41d39141c28a735043d43625_jpg.rf.8242b4e91b3c07ceb02246d08c79cea4.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+56fe48b31bd488e4c6b9ca1068dd27de_jpg.rf.e03434f5800ce2ec1fc1089c2ce72390.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+58907797273a8e0c4d2f0cca7ca53bc3_jpeg.rf.de256563994ca5f8c8d89c70d98aacca.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+5b0fa0ea8a8e7ea4f1ef740472bda96c_jpg.rf.a2439f1e51df954583d47e1e2414cded.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+5f673003fc84e828cbf56b24fc9ef105_jpeg.rf.79bad47e563e49ef95a228e67386b0bc.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+5_png.rf.93f0331ff56678644d95eb029612c1bf.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61a779163e8927e44f7971ecfee465c4_jpg.rf.b176b9c76733a476e0934f13c3c21af8.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61E54FgHqhL__AC_UF1000-1000_QL80__jpg.rf.94311a9fab68f367a642088ca2a3e867.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61EsRYG5x8L__AC_UF894-1000_QL80__jpg.rf.e247967e468604b0d7b305a64133d0c0.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61fcJNhie3L__AC_UF894-1000_QL80__jpg.rf.3dba2102a27bae60af47980d878516cf.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61FXrcp6CVL_jpg.rf.020e53576755fc35655d1a642690c291.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61KiKuoyR1L__AC_UF350-350_QL50__jpg.rf.3ad5b5ae9fcd51f18ef3a8bb5013ec4b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61skXSiC5TL__AC_UC200-200_CACC-200-200_QL85__jpg.rf.e62ce89cb3e481f07f08f6c133fb2e69.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61uCZFiUjxL__AC_UF894-1000_QL80__jpg.rf.41afc2ebc491be34e0117e931781e40d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+61xnCXZedrL_jpg.rf.141d7d2294b749746e24c427de491e3a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+633fd6be11b8fe00fb4e5a33-90w-19-5v-4-7a-adapter-charger_jpg.rf.1a51c9b79b03cd3646233361783171cc.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+6359b38786f7a506e913c226-6ft1-8m-polarized-us-2-prong-male-female_jpg.rf.a195be350f6b9d79060aeb66ba58bb6b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+673a2fc88e181f80fd6a0a9440982973_jpg.rf.3cb2f2fcf1b305919c3e46ad4526c2f6.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+68349c03876401b1fe096b09623f3089_jpg.rf.53ac7622995d1cebde1abf7a32374aa9.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+6836a185a46c4f5ad5c2b58571086fa1_jpg.rf.ab8106ef2914c5047d6bb360f6de132f.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+69c6c17ce9d106ac5623dfd36e8b63e4_jpg.rf.482ba04ebd306fe017dc8e14bae2bd90.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+6b571f67bc997a6f1e87d7834fb1518a_jpg.rf.45fe8ae875a6c9bb14c93d8205ba4ab5.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+6ee8de8ad427f8d0f91bb83f2fc93c34_jpg.rf.16093eaad624fb4d5cbdecd861f9053a.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+6_png.rf.3fe15be4cefdaba1ba00a44e56d355ab.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+7137XdUsHTL__AC_UF894-1000_QL80__jpg.rf.21a378cd3631de47d1e90bba16a99f0f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+72e0a80e55d082e28d00bc70e602eb8a_jpg.rf.536a3022819ee3c54560ad2366ca766e.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+78624547de7158c23e6923538bf38236_jpg.rf.a80658511b0682ea8546840bd07cbd09.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+7931e43bb136cb075ec51d093129a541_jpg.rf.21287f13934b4512fd52f8a70bd7c199.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+7abcd26e240419e12abae56a8191bae7_jpg.rf.6c4812de605194e3c7e2155e682ae951.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+7c1b83774ae2cb77895cb000fe943ac4_jpg.rf.b28f364370eecaf57b0fa032ae767675.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+7_png.rf.d9cf2e56e1cebedfedb2d5f0c86e8865.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+817020012636C_jpg.rf.14f5cea98d6d3ded507206603ad968c1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+835a07c53363e2bf8e22c7f907af8204_jpeg.rf.f2464fb86e1f0551275239e6bed91162.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+845a2f02a4fb425bb312539db5f3bb3a_jpg.rf.578566228498b21c08d5e973bade9e35.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+84b066677262d148e05b8c03ff1deb0b_jpg.rf.5eae40b619702d827c875d9719144bfa.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+84c80dc9abebb6736e53af953281d497_jpeg.rf.f6912c0aaedd4ef4ac195f019e95efe0.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+850aa5b468a4efaa7557acb198fe32f1_jpeg.rf.eb41d2fd8b652ef18b8f10e241387f72.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+871866ecdc700be0eb58146fc8a8b7ad_jpg.rf.a2dcac51a27988ce2d6bbd7284b9daa7.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+89b257f69ddfd0f1c8533f81d39bfa31_jpg.rf.a11b9d6d96e4393cb5ac80026bde906b.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+8e7a8da6795cb7f0c164500f719bff87_jpg.rf.89ea1320e0cfbf4e06bf118546dbd314.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+8f6bd2a44d3f7eaf978549afb2587b6c_jpg.rf.2d3b5f271329435f9d793570ee401ca0.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+8fa6adbb5e95a42e39603c50f9e3078c_jpg.rf.745eb53cfc1175c4ac231c3bfb5718d6.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,RF_DUP01,REVIEW,cables_roboflow_manifest.csv
+8_png.rf.3b09bebd1d53587edce5125781cee2a4.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+90ac9ea44fdee9a607ad6c373762abe3_jpg.rf.2f334e8511523814533b36cc4260b553.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+95490a0349b28fa10d9f3e51b28b2f59_jpg.rf.1a153db3d594554dd517d38085e33e54.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+9646fb253d013cdb70ff637982f3c6b6_jpg.rf.c105b78499ded8fc60645ebbf43c6319.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+97add01420e5f2c7a5d796c021c692e1_jpg.rf.52feb54942106b3aa57d0ac92c78afa8.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+9911b1926b80d9761275c0ada44fd0b1_jpg.rf.526e92679b1ff035765ef2a341cd3166.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+99f449fa6fcab999e351229096d15fbf_jpg.rf.a2638b4503ebe4627b990632120c5e83.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+9b112bdd2072603e4047bff901eef12b_jpg.rf.7b222663f5fbdada07f85bfd3dc24c01.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+9e6b70144700324a16cf126aeaff57d9_jpg.rf.7778c9aba8351f63edd5932039c8a7a6.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+9ec1eb048f8239c92606339ba39fec6f_jpeg.rf.cbe40090ebe58123b144182c27b77a3b.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a0385dd4427bc37b96165df84e22f944_jpg.rf.7a7edce5d6490e1b08f4f4c8dd423bfe.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a0e7e38848f4e2e342842ecbe804d924_jpg.rf.4c49384874b4c697d36f317e42b36b13.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a21fbe441fceba79df4a64625d142c0f_jpeg.rf.b15f18a539290576e34b3dabfc2b7acc.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a2fe6f0283d9b36639834e3c08b97c62_jpg.rf.f964491141f1c3b1f4556ad2370cb3ff.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a3415f0a4553907ad45a10fd838da363_jpg.rf.79a08adebb7d3fb57c83bd3092805024.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a424d9d69e955f5a56c4a5857a4b5588_jpg.rf.c65f68410f1b8da369fd59aceeccc996.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a58813d003c5ef322db19c5c117beb0b_jpg.rf.be17ae95ebd8368e4680c38b9901a1c6.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a8be977ee531ca0eab2746e3a566b312_jpg.rf.eccce8c99f0cb907c2bdb45d74bc7490.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+a9de1be558d0a86ba18ad2e558d77b7f_jpg.rf.85c2691a3e8f629d4abd36b60528456a.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+AP2390-00046-08_bmp.rf.fce797e20ee38640d22097a2cce2fcdf.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+AP2390-00050-06_bmp.rf.ba9ac83792d0725c156d476ca8803098.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+AP2390-00071-03_bmp.rf.8586306836f0b32c2271a78b0ed622d1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+AP2391-00020-03_bmp.rf.bd9920cba2def077a45fe7626fae1af2.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+Apple-MUJ83ZP-A-AC-Adapter-C_jpg.rf.3e4ba5fe38f0edbf6e593ccb5e30dc22.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+b2d11596eb287c3a403508bf7660d427_jpg.rf.7f674c571da9045c952412e2d3876dc4.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+b758f44c08178e5e83033dfd09e6a015_png.rf.e2a3323da809335c8992c241c3add2e1.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+b8aa116d5ce8a69630646dc0a7557783_jpg.rf.a10d2373ad96c1297056e5bd6270ec30.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+B8AMD221218047PORE4_jpg.rf.6f7846ad4d79a31d915d2eab0c6cb396.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ba6c788c-970d-414e-9c52-18e7e088ddff_0483202d0999a12ea425c9a9cf49b5bd_jpeg.rf.4651455b70dd53f58cc1616ef9a704ee.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+baby-toddler-boy-holds-usb-260nw-2164601657_jpg.rf.180395cc5092d0633d76cc5fa17360d6.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+battery-charger-lightning-micro-usb-electrical-cable-png-favpng-FjZYcSiuwxYq5aN98dxjbZvaf_jpg.rf.5a9b254dbb7a8f60d1f0d965b77b3745.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+be7804e4aa44dc5bf1b47d8a406d3ab7_jpg.rf.9a045f0e88fd846ce9ede2b67eaa43b7.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+bf5c4072180407879c808e6e91c024e0_jpg.rf.1e5a4182a740da46e185e2989fd6c875.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-cable-isolated-on-white-260nw-507116737_jpg.rf.11b541b1bd757f5fd12facd3dd430812.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-cable-isolated-on-white-260nw-74722177_jpg.rf.24003178ffd5efb08ec1d0884246dccd.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-cable-on-white-background-260nw-66887635_jpg.rf.621d7464635582b72a0f025e2f0d69af.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-electrical-plug-and-electrical-cord-on-white-background-R08BAK_jpg.rf.aa814233b0724a93cf6f81898a6597c8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-typec-usb-cable-isolated-260nw-1893561139_jpg.rf.9a9f18c1edcf73cb42ea8325fa389753.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-usb-cable-charging-smartphone-260nw-2002470518_jpg.rf.8d4af694c2ae7c1d7a3690b69c4b3504.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-usb-cable-isolated-on-260nw-2164627725_jpg.rf.12d4d21ad9c68b749cad2f92c7c5547c.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-usb-cable-phone-rounded-260nw-1079418008_jpg.rf.40cd05f7afc654c64cc75a75766a1cdd.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+black-usb-cable-plugs-type-260nw-1870277137_jpg.rf.6d7101206a65ff374be9fd83b6a853a9.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+blue-usblightning-mobile-charging-cable-260nw-1451565611_jpg.rf.ed37b9fcdb5fe9887a6d597f8fce3d58.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+borofone-bx3-skilled-charging-data-cable-for-lightning-canned-package-durable-800x800_jpg.rf.0c54a3a9cec46b72bd80f2703c7acbcb.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+c17eab46cb3a8029b9714a2ea03da7bf_jpg.rf.fa236cb079ea7163d80f3cb7ee246309.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+c1b375283532d9ddcbd7b34f5029f794_jpeg.rf.f7ed438d6e6a437576b94df65a27cfe9.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+c9bd4a2f74fc86be353ddec11e5a612c_jpeg.rf.bfcba87247b761f3ec911c5e6528660c.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ca64e33065716cc713c5522f5d500d09_jpg.rf.312cb38517998d4d10bf8eff6c6475c9.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable-connector-microusb-usb-on-260nw-341028971_jpg.rf.3f126ed547793c688b2f165d173cee8d.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable-usb-connection-vector-illustration-260nw-712320007_jpg.rf.f876cab94f83ca7d98dd8cb0932a80c3.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img106_jpg.rf.931872080404aff8a2a0ba9a8006f29a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img107_jpg.rf.c18216109c14dd20ff130aa1f0394a30.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img109_jpg.rf.4de2ed62966fb64dc313e4edaa59b38b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img112_jpg.rf.804e7292737610042573ab69c132545f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img113_jpg.rf.2831c7816d2aac9a2633b527bc191b49.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img123_jpg.rf.bff0296dbbcd5a0a99350a4c6f9b439e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img125_jpg.rf.2f71184533cc26f8765ad5d2bb364955.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img135_jpg.rf.bc59782f5a6a4a049d1839d8e7a26ea5.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img137_jpg.rf.8488465dd47fab51ab4183085e540752.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img138_jpg.rf.d5d6a22be46fe14b848ef03b484f5935.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img152_jpg.rf.c984b44b0444f74214208b2c3fc5c211.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img155_jpg.rf.137040aba098bc4335bb93c876f0852d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img160_jpg.rf.63ca59d2905de0f9c93be53d03a9306c.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img162_jpg.rf.597b997cb39d9ec24a49a6b2acc40877.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img170_jpg.rf.e1fcb5967661ba5af551aeb4f0b14c4d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img172_jpg.rf.05e24d4135d254f72d24f1cdc63aa84a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img174_jpg.rf.4261ed179eeb511745ad338417f82e62.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img200_jpg.rf.e430ed5f937ea14e95c05090c9733bf7.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img206_jpg.rf.d0136de1a40aac985bcd500e4a1ac970.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img217_jpg.rf.05943d8848b5ab02248c6d753a73ef67.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img221_jpg.rf.f3d8e7bbede54870a239361736d286bd.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img237_jpg.rf.279544fd6924d3342060799a7bf568b5.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img242_jpg.rf.f40f4be6da2229c2bf57d7a75813c67d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img244_jpg.rf.e69d879c2d1b5c9f31fb4ee248632bb4.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img255_jpg.rf.03f517186c3ea7f73d64121af23e9a21.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img266_jpg.rf.c518a95d2bc2edd6ad36d922d2ac3420.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img267_jpg.rf.12797f116df74b732e7aa5f980f61417.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img279_jpg.rf.c1d41f85c4b04a83ecbc8d18fb06aa4d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img289_jpg.rf.c5a83d9e2a2f33952f31fb905672f7bf.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img290_jpg.rf.f94531ccb31ee651849faed9bf09fe09.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img301_jpg.rf.0ec5bf52c71852709ab5e8f2af68b682.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img306_jpg.rf.25e7bb2d09c4c0c6083adacd1534ca58.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img307_jpg.rf.014a5f004d056d33e50f2ed74844e2a6.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img323_jpg.rf.92279a276af6bb1a56801d4cd182cc3f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img331_jpg.rf.0527829d58035d3c34ce22792624c5de.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img335_jpg.rf.42bc66e3378f30eca76f8cd341602a19.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img346_jpg.rf.7b8e4517df11c2c03648a4318fe809dc.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img349_jpg.rf.a7becef00353f0aa65f608989543b1ae.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img351_jpg.rf.3c0495f3053e979ca0cdacf0c5d7cbf5.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img352_jpg.rf.35610c18b3dc91cd635231f9ad1751a9.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img357_jpg.rf.5c125ec6df8eb78a94e6d407d57bb05b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img365_jpg.rf.d92ba59f01a26a1c9317dd34babee1d8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img366_jpg.rf.0102eafb515a460da3a00842cbd5e3a8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img367_jpg.rf.2b9e5956864f0c6c4c6f406929319f19.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img368_jpg.rf.e173718adee5944ae5a8241616f4cac2.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img370_jpg.rf.9aded91a91bb379a3686ca3718f245b4.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img371_jpg.rf.5b1b80f604bf24de4c270ed92ff1e57f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img380_jpg.rf.12a8bf24295bcc6034bbac2d8720d890.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img387_jpg.rf.d4cb39257a8838bfc47c8732138bfe0a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img388_jpg.rf.c245c9a72d12097280f2dde26195460e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cable_img392_jpg.rf.d849c9eb985548edb65726e50d6a9d91.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cb10ca4856c18daf585d5cd2f8d063ba_jpeg.rf.42f27a02a9429b6e4a7a077e204a091e.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cc3b8833baa8e61152640250c6e22981_jpeg.rf.46e2f6c7c5944fce2d5083a988a24b67.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cd1bd4b3da0af538e67af9c3ca55edf0-mp4_webp.rf.1cb7a9211ea9b76e4ad18420b013a45e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ceee224c5f25f0ea6616884f07ddc285_jpg.rf.b7e89c01e8e2c73a8572c4b4dc77a55f.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cell-phone-cable-260nw-1081741841_jpg.rf.671fa8e5a0c218d940fa48ce0504e4c5.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cf3cd7263a37d331c06ae140ae3afbb3_jpg.rf.87a3af3018e138ef62e8c7bd22e9fbb6.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cf52d71cefddb2a1c41eec212c46177d_jpg.rf.a28d70bcd0eb50eca05812d397355894.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+charger-electricity-power-smartphone-cable-260nw-1613481382_jpg.rf.923c20afe9d52b023bb96403c94923e1.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+Charging_cables__webp.rf.b1e097354066736849198b127143f359.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+coiled-black-usb-cable-isolated-260nw-1317042122_jpg.rf.8301878e92da28541a54f5a1f07a2749.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+coiled-black-usb-cable-isolated-260nw-371394781_jpg.rf.ce24418f244c8560b4c78b0eb564ef41.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+coiled-ring-usb-cable-isolated-260nw-235490773_jpg.rf.9312d22e50c1d2b3fbc4e78551850a33.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+cord-set_jpg.rf.cb9fd4e7c5eeb12bd8b93f6ff4bc2f57.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+d10583ae124526f54cf33dca453ba61c_jpeg.rf.364dd1c462128c5df55b22e0485e6c8e.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+d109ea60a6548f5275a48e8555c664e3_jpg.rf.dc987f1763ca70de55e28fa228e9e8e1.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+d2f3629bdde8a0522435be5702e56bbc_jpg.rf.a3715d584646004f28bd2cd8b910cceb.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+d4269a3b5e85113d1e0c36fabe998531_jpg.rf.0d8e830a49a903ddf559532922b043fe.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+d77e32452e9df7ba839b4d510be4cfee_jpeg.rf.a1bb28de17e605972fd7a3f3e0335194.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+daabfed21b051a39023c4b7f835cd3ac_jpg.rf.e52394bc91379ec2570eb6261e3af895.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dbc7009021bf48214187b39c6d1523aa_jpeg.rf.19f84dd7fbd01d11aea62b56cc89352a.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dd50c5533e04b5dd8d4af6d2c9cf1ac9_jpg.rf.933469f2d298794cb01a376479ba44a1.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+deb5271e34dfc09d369ba5caf3e303dc_jpeg.rf.8df01bd0cdfbe8b1bd822574dd5566f6.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+df0d370846372d18e7635ebda2a0e5bc_jpg.rf.bf881a868cf2447746cfce68e249445d.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+diy-cord-makeover_jpg.rf.c92e5fa730519957994a003194e8fbbe.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_10_jpg.rf.891c1f9013e8115b52b362b0f7c21d1a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_11_jpg.rf.8556b09cdd1ddd59f755883603b75acc.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_31_jpg.rf.0a2b55abdcc7d208d5afe5711f2056d5.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_64_jpg.rf.929a3cdaf5faa959990bfedf8c042f86.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_66_jpg.rf.4afe405bb2dc45f9c2bb4e87b74945fc.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_67_jpg.rf.e22e795aaf5e013e2e7724bbb4509d1c.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_74_jpg.rf.1ed3e242e8dfab170ced72ddd90059fe.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_75_jpg.rf.fa2c63f8ab7480a2fc6ce909dae5aa6b.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_78_jpg.rf.9791dfdcb405ed7802ecdb4323543658.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_79_jpg.rf.f9919d9d77d70870a62ab38fa7af9075.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_87_jpg.rf.f219d0c8b3684e70f7851f62bc1f90b2.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_93_jpg.rf.c7429e637783e200920f87ae45e3c27d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+dog_image_95_jpg.rf.47bd209c3835c559b808357d34074aeb.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+e05c64992998159721f150eb854b4b11_jpg.rf.b134d1b5c2e50ae8f5ac31888b14a1e4.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+e0c831172bbfecc533b041c8e880be7a_jpeg.rf.172a10d5fcaa20add34a343075714d62.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+e27af196867259e857fc9befb64bd616_jpeg.rf.2491a01cb32305f8630fe252a4ee7d3c.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+e57870ae25667ee95348f3d62234906c_jpg.rf.a95ac93c5f8896e5465219c8c396ea6e.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+e59a77e2e94dbec44bb52a9061e87b52_jpg.rf.77ff8e5e4d616eaf9ad0fb26c334eabd.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+e617a6d39a00a99fa7097dbf8bd0ee76_jpg.rf.fbcfc68fa89d81710f650ee71ab79fbf.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+e9f3b1214cef00f14df673ec68bf12f4_jpg.rf.12dd305590025542c6e023207625665a.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+eb20e500e780774e370061fd1168f82c_jpg.rf.1b45b1b98b5267f5eb0e29826c2f806c.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+eb9b541db1a53ec8402c4e2c3a707956_jpg.rf.f6b233e2ada121b1e3aa89cf2d717cda.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ebb483a9a54e1fee624da2d6c0c1ff2c_jpg.rf.a9dcbcfb2b65f3ced50844fec3da89ab.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ec27a3d7bcb924e94f18a0a93b0e0f0a_jpg.rf.21d680272aa7f71b8405a4c8885bc8cb.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ec33ab3c197929af2d40cc4e36d7e7d1_jpg.rf.0099fd5530db48c7e9b5947cdfb43eeb.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ed7ce0873f4d1e973eedf46eda58ecfc_jpeg.rf.59baf14dcaf20bdbc865643179bc2c62.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ef84f2a68316bfd059a6886c70f7ea9a_jpg.rf.52738a53a4b1e47b688c158bca27ab18.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+exclusive-usb-power-bank-dual-260nw-1051386992_jpg.rf.b12f045ad68c69c75b35df8535ccca1f.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+external-hard-disc-usb-cable-260nw-249611227_jpg.rf.59d57a6443c65f021dce2ce36134c262.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+f5c53f4cf963f09acb7b81f2b0e0f3ce_jpg.rf.b663d25e648b285c0efcc7cbb925a4f6.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+fa6257dfe44365e80ad18a0c4b3e8534_jpg.rf.9d2d7c191c77d7c9034912b6d4f6a5f8.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+fa923ed90cb2fde24a6ae6228d9d1606_jpg.rf.871a1534eed3f72a7905b341cec7f3be.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+fbca9515667546cd80d19f052f9ef7d8_jpg.rf.0aec3f8561dc03b29539ac1bca496433.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+fbdc32846ef0dfae2cac2dc643ac7046_jpeg.rf.16b74286662c6c9651ffed180e544e75.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+fd71c72375187908de544497ed7e42b6_jpg.rf.c48ecfb202858e967aebf11da455ceea.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ff258599feaef8e825aa6e213f3b0fd1_jpeg.rf.7d5ffa3dc1d3d809a3a75536b275d2bf.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ff7b56b871f1f25c0a3e123484dfe028_jpg.rf.933debaf3d614b57fd12c76aba9415ba.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ffd9fe7e51db97ca9cfa8a94cb8160c0_jpg.rf.5a632f558ecbbe511222b1045b6b31cc.jpg,Cables Roboflow v1,train,Charging-cable,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+flat-usb-cable-icon-vector-260nw-1939231753_jpg.rf.834e272c1bd2fc56a50a3648186646ce.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+flat-usb-cable-icon-vector-260nw-505423348_jpg.rf.bf51001dc8ad1a5ac19a3d5f700d8a2d.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+flat-usb-cable-icon-web-260nw-221924485_jpg.rf.b5af9b4554e7b1638147facc7a9dc6d8.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+folded-usb-lightning-golden-cable-260nw-444569938_jpg.rf.e8ef7718390955c39e1b6b99855d3cb9.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+green-computer-cable-isolated-on-260nw-283253051_jpg.rf.9c64e70f901b1a16f3e97b87df975c26.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+hq720_jpg.rf.a023343448ca229d2d171780551c1da4.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-1-_jpg.rf.d51633ff760bd3cd324da9542aea53c5.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-1-_png.rf.f3d2d5f7aef0e199309ef5d85bf8588e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-11-_jpg.rf.7e7d65107dfbf74e0c89b0ec5100005a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-12-_jpg.rf.125e23566569ec586225f6e7da1e5fe8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-13-_jpg.rf.2003608269307383ca919f70c0c1ab91.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-2-_jpg.rf.f1b4f9e101d7932ca40f9ac80e553479.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-3-_jpg.rf.a8009b468b3d64f2f14b6c40155dd04d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-4-_jpg.rf.77079d1b8c6fc49a243c0dbec27dd2d1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-5-_jpg.rf.59c03813c8eb344fb4c2d4542962f41a.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images-6-_jpg.rf.da911202fef83d495e7d84e4ac76bf95.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+images_png.rf.4c20b2cc40265e0d11f2b9770d416ab1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+image_195_jpg.rf.535cc20ee082afbc302b0b87ad68301d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+image_247_jpg.rf.828536bac56dfae19fbf9128a9db2966.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+image_346_jpg.rf.2f1a907d8af6c14bab98cdae797f9cf5.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+image_434_jpg.rf.c11853673172c30a21b5dc467f5deb28.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+image_9_jpg.rf.ba5fd3efa5e36ed4d13b80badf8d9c5f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+img-7136-500x500_webp.rf.f417d47e0a590ef0a79381d779c631d0.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100539_944_jpg.rf.63e8a9c64f389662b254dc7b93db20f8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100539_982_jpg.rf.6a02ba8441272de613b627beaa7e82b1.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100540_180_jpg.rf.1b4885d6816881f7a01cf4c5b8f250e8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100540_219_jpg.rf.027821d928077253453c1872b2ef85a8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100540_244_jpg.rf.b17fefcc45ddfa1e0ce63e96669dabab.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100540_270_jpg.rf.78f89457d92fa7de596252ed8ca94820.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100540_307_jpg.rf.2ab8ebe1cb2554b8b6ab4bc898b12d57.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100540_598_jpg.rf.9a436f4181811e4c245fa3ad546d3ccb.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100540_600_jpg.rf.7083a4b9afb57a1ac66c4a82297a53ed.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100540_711_jpg.rf.9066553215b2a6aa4baa87b2bd73114c.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100545_981_jpg.rf.6d7e229b67649773d992083464bc11b9.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100545_995_jpg.rf.eb67b12974a523bb8691143473af9742.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100546_418_jpg.rf.f1315c098d3a5a64bcdafe27b70b9f42.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100546_438_jpg.rf.12c773cd1706e74a2bad055867f88501.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100546_440_jpg.rf.87c23d2a9268bfa2a98605882e1308b7.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100546_606_jpg.rf.c466e08d2b6fb18934d4db4b221d37a3.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100546_712_jpg.rf.3cb84191bafb37ba90e90f9fdeb06288.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100546_730_jpg.rf.3757919820126b16bd3584c32860b52f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100546_808_jpg.rf.674817ab30177dc9908d2f3607604988.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100546_924_jpg.rf.ab83172ef9b8a402e8fcfe44e4feb494.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100552_683_jpg.rf.0fd70a445a0809621f5d90b1b0729a7e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100552_695_jpg.rf.d612377991041d041ae77fed22fb6cbc.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100552_740_jpg.rf.7e2b0f1664b1a3e4bfdf5c45af74d42c.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100552_784_jpg.rf.35422eafe1284c9c0accb3885ce09c78.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100553_002_jpg.rf.96e094fa92e4b8d308179cf61492fa73.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100553_003_jpg.rf.17bc4be88be42c63e9e447093223dacc.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100553_046_jpg.rf.75f469294f9021d9ccac50bb9ed4109f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100553_366_jpg.rf.4af4b28007bc452514b02ce1cc8a0f21.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100553_658_jpg.rf.cec02901c3719539edf95eb888771c52.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100553_664_jpg.rf.e638a7b555e8d1efabcaef2cbcc0437f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_20250405_100556_795_jpg.rf.754f5ea22db31de9ddccd2b94e8de4d9.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_4977-20230808-115611-_JPG.rf.0dfe56a3517011f8a1809a9d99e0888e.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_4980-20230808-115645-_JPG.rf.724bfd3cfd43a11fabaa4341b9069e6c.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP10,REVIEW,cables_roboflow_manifest.csv
+IMG_4980-20230808-115645-_JPG.rf.93cc35181acb9817e91c43fcb58fa55b.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP10,REVIEW,cables_roboflow_manifest.csv
+IMG_4981-20230808-115648-_JPG.rf.39ce38c9538c5f7cb46b2cc7c6798b5e.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_4983-20230808-115717-_JPG.rf.0baa176490b3888ea1b3fd4eee143d0b.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP11,REVIEW,cables_roboflow_manifest.csv
+IMG_4983-20230808-115717-_JPG.rf.f5df931790cfb538c9ad6eb8d67ad23e.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP11,REVIEW,cables_roboflow_manifest.csv
+IMG_4984-20230808-115721-_JPG.rf.1ba5c5ab51d5a36979f5c7170608ba50.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP12,REVIEW,cables_roboflow_manifest.csv
+IMG_4984-20230808-115721-_JPG.rf.2d0af48942580fe2bfe226fe9a2b2c86.jpg,Cables Roboflow v1,train,wires,cable_plug,RF_DUP12,REVIEW,cables_roboflow_manifest.csv
+IMG_4986-20230808-115728-_JPG.rf.62160c7f473da924e7ebb64ddf690922.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_4990_JPG.rf.d5e208200f44ec4048161b6579ae7899.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5092_JPG.rf.88b5fc60f78595040ec22a0f5622303d.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5105_JPG.rf.34a764320fdd603e7489b61a4bc5735b.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5118_JPG.rf.dce5956a025a8ec1cb64cce4ce0c0cc8.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5134_JPG.rf.64a3852ed432fd4d3e20aa248b9e8331.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5140_JPG.rf.5e5d168a9d082aafe15ab7903f7b8508.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5142_JPG.rf.fdae214b2ad63b7da37d5b96f6e9d0af.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5145_JPG.rf.03dff94ddba5a4b055fa8158b96da4ae.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5150_JPG.rf.5e3fc5eabb48a738dcfc46b350620614.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+IMG_5151_JPG.rf.848d70d0b802dedb0ec86732e9ee8008.jpg,Cables Roboflow v1,train,wires,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+istockphoto-1203702378-612x612_jpg.rf.351f009adc53d5ad479cde0b7346002e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+istockphoto-1219243078-612x612_jpg.rf.1b3b3e2dbc7d0a0038cc5bd9a0e15932.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+istockphoto-484719630-612x612_jpg.rf.788521d07f980e8d9e335ae1b166f62f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+istockphoto-497749772-612x612_jpg.rf.20b5df3acd5438022ef2e8f2f8591dce.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+Ldnio-Ls550-Usb-Cable-Mobile-Phone-Charging-Cable-2_1-A-Fast-ChargingIn-Sri-Lanka-Otc_lk__png.rf.6b0114f85fb208fd8f9a622adf27da8d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+led-tv-power-supply-cord_jpeg.rf.a26057503803a40fc279fd372c815ed3.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+lg-tv-genuine-brand-new-power-cord-cable-ead62348808_jpg.rf.6b873c41111148aabf5a79f9ffa91254.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+long-yellow-usb-cable-on-260nw-1263894637_jpg.rf.fe5f35f6ae0fe22421f07463dff87d0a.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+mico-usb-cable-260nw-518447116_jpg.rf.0de1b937f78f7e0174333de9d332ac9b.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+micro-usb-cable-isolated-on-260nw-1654276372_jpg.rf.7de321e99f44e1c3d4c4f8f0684d7c33.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+mobile-phone-charger-top-view-260nw-723460495_webp.rf.2d53494f4d92f1988c6d7dc1f8de9d1f.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+Permanent-Wiring_jpg.rf.fd2ad902548509a9ba19614688896e3e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+ph-11134207-7qul3-lkix3iyk3wamb0_jpg.rf.35d8cf455296700945d2c5ccc2faaa9c.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+png-transparent-battery-charger-hdmi-electrical-cable-usb-black-charging-line-black-hair-cable-mobile-phone_png.rf.f6265d0f71a9efec0686c7ce5ebbc556.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+Premium-Patch-Cords_jpg.rf.860713ae2d9dfff4ac646bf43cd6b8cf.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+product-jpeg-250x250_webp.rf.fb3fe02858d225d75741476c9e2b265e.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+product-jpeg_jpg.rf.b12f0fa977b56117d9db31be1a16412d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+realistic-vector-illustration-lightning-usb-260nw-1180424011_jpg.rf.9dd6a3ebd048539f5b0d3fa79b07a756.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+red-usb-cable-plug-260nw-362169695_jpg.rf.c33fbab568dd9c60dfb5487e0d89c64a.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+s-l1200_jpg.rf.946ffe02af95e2410ba6b6685b2e49e8.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+SCA-SCA_1_jpg.rf.55f457d9d203d5a6351980047d98e684.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+sdfghj_jpg.rf.e462b2f532e9ed644be5f2aa1e17ba1f.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+top-view-white-color-data-260nw-586409690_jpg.rf.1d126cfd2a71db8c5cd04d6ddf0649a3.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+top-view-white-color-data-260nw-591171032_jpg.rf.885cc6e923e0990df5a3b6781f47a68f.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+top-view-white-color-telephone-260nw-586408841_jpg.rf.968357c7a52b2733b6d7e50c0a2d1942.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+usb-cable-260nw-226815199_jpg.rf.a3510cf774a506b1a64f4a40ef4e2436.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+usb-cable-260nw-57282811_jpg.rf.5b7857d76664456f44b36269fa3d41c7.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+usb-cable-plugs-on-white-260nw-110752040_jpg.rf.8dca492468cd4d167cf282a4578f5d39.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+usb-cable-smartphone-on-white-260nw-303244265_jpg.rf.a258d38da45c31820015444d081229f0.jpg,Cables Roboflow v1,train,cable wire,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+usb-charging-cable-500x500_webp.rf.bbd7dad2059230c78f98f08d783ebf04.jpg,Cables Roboflow v1,train,Cords,cable_plug,RF_DUP08,REVIEW,cables_roboflow_manifest.csv
+usb-charging-cable-type-c-3a-super-fast-charger-cable-mobile-phone-data-cable-usb-cable-type-c-for-iphone-for-android0-0307618001713160134_500_jpg.rf.5ba4fba22f620f496d7a63ba2885e29d.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
+U_S__power_cord_IEC_320_agr_jpg.rf.1a5a0937383961d8ad1ce3dd64a5fa09.jpg,Cables Roboflow v1,train,Cords,cable_plug,,REVIEW,cables_roboflow_manifest.csv
