@@ -1,2 +1,3 @@
 dataset_name,source,original_classes,esafe_target_class,version,license_note,notes
-RecyBat24,Zenodo,"Pouch; Prismatic; Cylindrical",battery_powerbank,v4,"CC BY 4.0","Original non-augmented dataset"
+RecyBat24,Zenodo,Pouch; Prismatic; Cylindrical,battery_powerbank,v4,CC BY 4.0,Original non-augmented dataset
+"TrashNet++,Mendeley Data,""Plastic; Metal; Glass; Can; Cable; E-waste; Medical Waste"",cable_plug,v2,""CC BY 4.0"",""Using Cable class initially; plug/connector images will be added from another source""",,,,,,
