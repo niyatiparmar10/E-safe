@@ -1,4 +1,9 @@
 dataset_name,source,original_classes,esafe_target_class,version,license_note,notes
-RecyBat24,Zenodo,Pouch; Prismatic; Cylindrical,battery_powerbank,v4,CC BY 4.0,Original non-augmented dataset
+ dataset-a-cable-plug
+
 "TrashNet++,Mendeley Data,""Plastic; Metal; Glass; Can; Cable; E-waste; Medical Waste"",cable_plug,v2,""CC BY 4.0"",""Using Cable class initially; plug/connector images will be added from another source""",,,,,,
 "Cables Dataset,Roboflow Universe,""cable wire; Charging-cable; Cords; wires; other source classes"",cable_plug,TO_VERIFY,""CC BY 4.0"",""Second cable source; intended to contribute complete consumer cables/cords rather than only connector tips""",,,,,,
+
+RecyBat24,Zenodo,"Pouch; Prismatic; Cylindrical",battery_powerbank,v4,"CC BY 4.0","Original non-augmented dataset"
+Custom Bangladeshi E-Waste Dataset,Mendeley Data,"Battery_Waste; Glass_Waste; Keyboard; Light_Bulb; Medical_Waste; Metal_Waste; Mobile; Mouse; Organic_Waste; PCB; Paper_Waste; Plastic_Waste","mobile_phone; pcb","Roboflow v5","CC BY 4.0","Using Mobile and PCB classes for Dataset A"
+ main
