@@ -1,0 +1,14 @@
+Before we train Dataset A, I want us to do these checks:
+
+Freeze the exact six class definitions. No ambiguous small_device definitions once preprocessing starts.
+Deduplicate before splitting. Exact + source groups + perceptual near-duplicate checks. UNU has already shown why this is mandatory.
+Ignore source-provided splits. After combining all sources, create one new group-aware split.
+Check source bias within every class. A class should not be identifiable from “green cloth”, “black bars”, “white lab background”, etc.
+Use annotation-based padded crops where available. Probably around 10–20% surrounding margin initially. Not extremely tight crops.
+Make inference match training. Your app's camera guide should tell the worker to photograph one complete item, centered and reasonably large. Then the deployment distribution resembles our padded-crop training distribution.
+Flag extreme images instead of blindly using everything. Tiny, heavily clipped, questionable label, bizarre aspect ratio, etc.
+Audit cleaned samples manually. Before training, randomly inspect roughly 30–50 cleaned images from every class and every source.
+Balance classes AND sources. We won't simply use all 2,828 batteries against ~800 phones because “more data = better”.
+Collect the real-world test set before final training, not afterward. Around 100–300 staged phone-camera images across the six classes, with real tables, hands, clutter, lighting and different devices. These never enter training. This is our early warning system for domain shift.
+Run a baseline before doing fancy modelling. If a simple pretrained classifier performs badly, we diagnose the data first rather than immediately changing architectures.
+Keep augmentation after splitting only. That prevents augmented relatives leaking into validation/test.
