@@ -1,11 +1,9 @@
 dataset_name,source,original_classes,esafe_target_class,version,license_note,notes
- dataset-a-cable-plug,,,,,,
-,,,,,,
-"TrashNet++,Mendeley Data,""Plastic; Metal; Glass; Can; Cable; E-waste; Medical Waste"",cable_plug,v2,""CC BY 4.0"",""Using Cable class initially; plug/connector images will be added from another source""",,,,,,
-"Cables Dataset,Roboflow Universe,""cable wire; Charging-cable; Cords; wires; other source classes"",cable_plug,TO_VERIFY,""CC BY 4.0"",""Second cable source; intended to contribute complete consumer cables/cords rather than only connector tips""",,,,,,
-,,,,,,
-RecyBat24,Zenodo,Pouch; Prismatic; Cylindrical,battery_powerbank,v4,CC BY 4.0,Original non-augmented dataset
-Custom Bangladeshi E-Waste Dataset,Mendeley Data,Battery_Waste; Glass_Waste; Keyboard; Light_Bulb; Medical_Waste; Metal_Waste; Mobile; Mouse; Organic_Waste; PCB; Paper_Waste; Plastic_Waste,mobile_phone; pcb,Roboflow v5,CC BY 4.0,Using Mobile and PCB classes for Dataset A
- main,,,,,,
-"sacmaytinh,Roboflow Universe,computer_charger,charger_adapter,v1,""CC BY 4.0"",""450 files but only 98 source families; heavy flip/rotation augmentation and cross-split leakage; approximately 95 distinct scenes; mainly laptop/power adapters and product-style imagery""",,,,,,
-"Mobile Charger Detection,Roboflow Universe,mobile_charger,charger_adapter,v1,""CC BY 4.0"",""223 images; mobile/wall charger focused; mixed product and real-world household scenes; two confirmed duplicate pairs; many low-prominence but still usable charger examples""",,,,,,
+RecyBat24,Zenodo,"Pouch; Prismatic; Cylindrical",battery_powerbank,v4,"CC BY 4.0","Original non-augmented dataset"
+Custom Bangladeshi E-Waste Dataset,Mendeley Data,"Battery_Waste; Glass_Waste; Keyboard; Light_Bulb; Medical_Waste; Metal_Waste; Mobile; Mouse; Organic_Waste; PCB; Paper_Waste; Plastic_Waste","mobile_phone; pcb","Roboflow v5","CC BY 4.0","Using Mobile and PCB classes for Dataset A"
+UNU-KEY E-Waste Dataset v44,Roboflow Universe,"77 e-waste classes including Smartphone and Bar-Phone","mobile_phone",v44,"CC BY 4.0","Using Smartphone + Bar-Phone; downloaded in COCO JSON format"
+PCB DSLR Dataset,Zenodo,"PCB","pcb",2020,"CC BY 4.0","748 images of 165 physical PCBs; dataset distributed across 8 ZIP parts"
+TrashNet++,Mendeley Data,"Plastic; Metal; Glass; Can; Cable; E-waste; Medical Waste","cable_plug",v2,"CC BY 4.0","Using Cable class initially; plug/connector images will be added from another source"
+Cables Dataset,Roboflow Universe,"cable wire; Charging-cable; Cords; wires; other source classes","cable_plug",v1,"CC BY 4.0","Second cable source; intended to contribute complete consumer cables/cords rather than only connector tips"
+sacmaytinh,Roboflow Universe,computer_charger,"charger_adapter",v1,"CC BY 4.0","450 files but only 98 source families; heavy flip/rotation augmentation and cross-split leakage; approximately 95 distinct scenes; mainly laptop/power adapters and product-style imagery"
+Mobile Charger Detection,Roboflow Universe,mobile_charger,"charger_adapter",v1,"CC BY 4.0","223 images; mobile/wall charger focused; mixed product and real-world household scenes; two confirmed duplicate pairs; many low-prominence but still usable charger examples"
