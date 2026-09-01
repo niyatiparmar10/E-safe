@@ -371,3 +371,621 @@ RecyBat24 is a strong starting battery source but has object-size/background con
 The Bangladeshi dataset is worth keeping, but only as a supplementary source for mobile_phone and pcb because of limited target counts, strong green-background bias, and Roboflow-generated variants.
 
 Do not start final preprocessing yet. Continue collecting and inspecting the remaining Dataset A sources first.
+
+### Planned Cleaning and Preprocessing — UNU Mobile
+
+The raw UNU-KEY dataset will remain completely unchanged. Cleaning will be performed only when the final Dataset A preprocessing pipeline is created.
+
+The preprocessing order for UNU Mobile is:
+
+1. Retain only:
+   - Bar-Phone (class ID 2)
+   - Smartphone (class ID 61)
+
+   Both classes will map to the E-Safe class:
+
+   mobile_phone
+
+2. Work at IMAGE level before generating crops.
+
+   An image containing multiple phones must not initially be treated as several independent samples for splitting or duplicate detection.
+
+   Example:
+
+   one source image
+   -> phone annotation 1
+   -> phone annotation 2
+   -> phone annotation 3
+
+   All three annotations originate from the same image and must remain together.
+
+3. Remove exact duplicate images before final train/validation/test splitting.
+
+   Exact duplicates will be detected using image hashes such as MD5.
+
+   For each exact-duplicate group:
+   - retain one representative image;
+   - retain its valid phone annotations;
+   - compare annotations if duplicate files contain inconsistent labels;
+   - manually review the group if annotation information differs.
+
+   The original UNU train/valid/test assignment will not determine which copy is retained.
+
+4. Detect and group related source images.
+
+   source_group_id will be used to associate files derived from or strongly related to the same original source image.
+
+   Multiple related images are not automatically deleted if they contain genuinely useful differences, but they must remain inside the same final split.
+
+5. Perform cross-source near-duplicate detection later.
+
+   After UNU is combined with the other Dataset A sources, perceptual/near-duplicate detection will also be performed so that the same internet image appearing in two different datasets cannot leak across training and testing.
+
+6. Ignore the original UNU train/valid/test split for final E-Safe training.
+
+   Significant duplicate/source-group leakage was found across the provided splits.
+
+   Therefore all retained UNU samples will later be pooled and Dataset A will receive a new group-aware split after all six E-Safe classes and their sources have been combined.
+
+7. Review very small phone annotations.
+
+   bbox_area_ratio < 2%:
+   flag for manual review
+
+   Small phones will NOT automatically be removed.
+
+   If the phone is still visually identifiable after annotation-based cropping:
+   keep
+
+   If the crop contains too little actual phone detail or is ambiguous:
+   discard from the cleaned dataset
+
+   Extremely small annotations are therefore handled through visual quality review rather than a blind numerical threshold.
+
+8. Review extremely large phone annotations.
+
+   bbox_area_ratio > 80%:
+   flag for manual review
+
+   If the phone is simply a valid close-up and remains recognisable:
+   keep
+
+   If a large portion of the actual phone lies outside the image or only a small fragment of the device is visible:
+   discard
+
+9. Handle multiple-phone images using individual annotations.
+
+   After duplicate removal and final group/split assignment, each retained phone bounding box may generate one classifier sample.
+
+   Example:
+
+   image with 3 annotated phones
+   -> crop phone 1
+   -> crop phone 2
+   -> crop phone 3
+
+   All crops generated from the same original image must inherit the same group ID and the same final train/validation/test split.
+
+10. Generate padded object crops.
+
+    The COCO bounding box will be used to locate each phone.
+
+    Initial crop strategy:
+    bounding box + approximately 15% surrounding padding
+
+    The crop must be clamped to the image boundary.
+
+    Padding is required so that the classifier sees the complete device and a small amount of realistic surrounding context rather than an unnaturally tight crop.
+
+11. Retain moderate real-world occlusion.
+
+    Examples such as:
+    - a phone being held by a hand;
+    - small portions of the phone hidden;
+    - phones lying near other electronics
+
+    should normally be retained because they represent realistic usage.
+
+    Severe occlusion where the object is no longer reliably identifiable should be excluded.
+
+12. Reduce irrelevant scene clutter through cropping.
+
+    UNU contains phones in bedrooms, offices, desks, hands, product photographs and scenes containing other electronics.
+
+    This diversity should be preserved.
+
+    However, large amounts of irrelevant scene content should not dominate the classifier input. Annotation-based padded crops will therefore be prepared.
+
+13. Handle Roboflow black padding carefully.
+
+    UNU images were resized to 640 x 640 using Fit, creating black borders in some images.
+
+    Padded object cropping should remove most of this artificial border.
+
+    The model should not be encouraged to associate UNU-specific black borders with the mobile_phone class.
+
+14. Do not perform new augmentation before final splitting.
+
+    New augmentation will only be applied to the final training split.
+
+    Validation and test samples must remain unaugmented.
+
+15. Do not use augmentation as a substitute for genuine diversity.
+
+    UNU already provides useful variation in:
+    - background;
+    - lighting;
+    - device orientation;
+    - scale;
+    - hands/occlusion;
+    - indoor scenes;
+    - product photographs.
+
+16. Combine UNU Mobile with the Bangladeshi Mobile source only after both source manifests are complete.
+
+    Source identity must remain stored in the combined manifest.
+
+    Final preprocessing must check:
+    - class balance;
+    - source balance;
+    - duplicate leakage;
+    - near-duplicate leakage;
+    - background diversity;
+    - object-size distribution.
+
+17. Preserve the original full image and annotation metadata.
+
+    The cleaned classifier crop is a derived sample.
+
+    Raw images, original COCO annotations, source information, original labels, hashes, source_group_id and bounding boxes must remain recoverable.
+
+18. Before training, manually audit random cleaned samples.
+
+    Random samples should be checked from:
+    - UNU Smartphone
+    - UNU Bar-Phone
+    - Bangladeshi Mobile
+
+    This audit should verify that cropping, deduplication and filtering have not introduced obvious mistakes.
+
+19. Final training/test data must match the intended E-Safe workflow.
+
+    The deployed interface should ask the worker to:
+    - photograph one main item;
+    - keep the complete item visible;
+    - place it inside the camera guide;
+    - make the item occupy a meaningful portion of the frame;
+    - use sufficient lighting.
+
+    This makes real user images closer to the cleaned classifier inputs.
+
+20. Final real-world validation will remain separate.
+
+    Real/staged phone-camera photographs used for final domain-shift evaluation must never be included in training.
+
+# Planned Cleaning and Preprocessing — UNU Laptop
+
+The general UNU-KEY preprocessing rules documented under UNU Mobile also apply to Laptop, including:
+
+- keeping the raw UNU dataset unchanged;
+- removing exact duplicates before final splitting;
+- grouping related source images;
+- ignoring UNU's original train/validation/test split;
+- creating a new group-aware Dataset A split;
+- retaining original annotations and metadata;
+- handling Roboflow black padding;
+- creating padded COCO bounding-box crops;
+- performing augmentation only after final splitting.
+
+The following decisions are specific to the Laptop class.
+
+## 1. Final class mapping
+
+Retain only:
+
+Laptop — original class ID 39
+
+Map to:
+
+laptop
+
+Do NOT include:
+
+- Tablet
+- Desktop-PC
+- Power-Adapter
+- Monitor
+- Keyboard
+- SSD
+- HDD
+- Router
+- other small IT equipment
+
+Tablet was inspected but excluded because only 11 examples were available.
+
+---
+
+## 2. Perform cleaning at image level before crop generation
+
+An image may contain several annotated laptops.
+
+Example:
+
+one classroom image
+→ 13 Laptop annotations
+
+Before generating individual Laptop crops:
+
+- identify the original image;
+- calculate its image hash;
+- assign its source_group_id;
+- perform exact duplicate handling;
+- determine its final train/validation/test group.
+
+Only after these steps should individual Laptop crops be generated.
+
+All crops derived from one original image must inherit the same final split.
+
+---
+
+## 3. Remove exact duplicate images
+
+Exact duplicate image files will be detected using MD5 or another content hash.
+
+The initial Laptop + Tablet EDA found:
+
+- 23 exact duplicate groups
+- 46 files inside those groups
+- 23 removable exact duplicate copies
+
+These values will be recomputed after filtering to Laptop-only.
+
+For each duplicate group:
+
+- keep one representative image;
+- preserve its valid Laptop annotations;
+- compare annotation information where necessary;
+- remove redundant identical copies from the cleaned dataset.
+
+The files will NOT be deleted from raw/.
+
+---
+
+## 4. Group related images
+
+source_group_id will be used to associate images that appear to originate from the same underlying source image.
+
+Related images are different from exact duplicates.
+
+Example:
+
+same original photograph
+→ slightly different exported copy
+→ different file/hash name
+
+If related images contain genuinely useful differences they may be retained.
+
+However:
+
+same source_group_id
+→ same final train/validation/test split
+
+This prevents near-identical scenes from leaking between training and evaluation.
+
+---
+
+## 5. Ignore UNU's original data split
+
+The initial EDA found source groups appearing across UNU's supplied train/validation/test folders.
+
+Therefore the original split will NOT be used for E-Safe training.
+
+All accepted Laptop samples will later be pooled and included in the new Dataset A group-aware split.
+
+---
+
+## 6. Generate one classifier candidate per valid Laptop annotation
+
+After image-level cleaning:
+
+one image with 3 Laptop annotations
+→ candidate crop 1
+→ candidate crop 2
+→ candidate crop 3
+
+Each annotation is treated separately for crop-quality evaluation.
+
+A scene containing 13 Laptop annotations therefore does not automatically contribute 13 final training examples.
+
+Each crop must independently pass quality checks.
+
+---
+
+## 7. Small-object review policy
+
+Laptop bounding boxes will be divided into review buckets.
+
+bbox_area_ratio < 2%
+
+    → mandatory review
+
+These examples include laptops that may be extremely distant in large rooms.
+
+Keep only if the padded crop still contains enough original visual information to clearly identify the Laptop.
+
+If the Laptop remains extremely low-resolution or difficult for a human to identify:
+
+    → remove from clean dataset
+
+bbox_area_ratio between 2% and 5%
+
+    → normally create padded crop
+    → inspect questionable examples
+
+bbox_area_ratio > 5%
+
+    → normally keep unless another quality issue is present
+
+These thresholds are review rules rather than automatic class-quality definitions.
+
+---
+
+## 8. Large-object review policy
+
+bbox_area_ratio > 80%
+
+    → review
+
+Keep:
+
+- clear close-up laptop
+- full or mostly visible device
+- recognizable keyboard/screen/body structure
+
+Remove:
+
+- tiny visible fragment despite large annotation
+- severely clipped Laptop
+- image where only a small part of a keyboard/body is visible
+- annotation that does not provide enough device information
+
+---
+
+## 9. Handle partial visibility
+
+Moderate partial visibility should be retained where realistic.
+
+Examples:
+
+- part of Laptop hidden behind another object
+- user interaction
+- mild obstruction
+- Laptop partially outside scene but still clearly identifiable
+
+Remove samples where the visible region is insufficient for reliable Laptop recognition.
+
+The goal is not to create an unrealistically perfect dataset.
+
+---
+
+## 10. Handle multi-Laptop scenes
+
+Multi-Laptop scenes are useful because they provide realistic environments such as classrooms and offices.
+
+Do not discard the original image merely because several laptops are present.
+
+Instead:
+
+original scene
+↓
+use each valid annotation separately
+↓
+create individual padded crops
+
+Extremely small Laptop instances inside the same scene may be removed individually while larger valid instances are retained.
+
+---
+
+## 11. Generate padded Laptop crops
+
+Use the COCO Laptop bounding box.
+
+Initial crop strategy:
+
+bbox + approximately 15% padding
+
+The padding should be calculated relative to the bounding-box dimensions.
+
+The crop must be clamped to the image boundary.
+
+Purpose:
+
+- remove large amounts of irrelevant room/background;
+- retain the complete Laptop;
+- retain a small amount of natural context;
+- avoid unnaturally tight crops.
+
+---
+
+## 12. Do not remove all scene diversity
+
+Cropping should reduce irrelevant background, not eliminate every environmental cue.
+
+UNU Laptop contains valuable diversity such as:
+
+- classrooms
+- desks
+- homes
+- offices
+- conference rooms
+- different lighting
+- different orientations
+- open and closed devices
+
+The cleaned dataset should preserve this diversity.
+
+---
+
+## 13. Handle black padding
+
+UNU images were previously resized using Fit and some contain artificial black borders.
+
+Padded Laptop crops should remove most of the black border automatically.
+
+If substantial artificial padding remains in a crop:
+
+    → remove/crop it where practical
+
+The classifier should not learn:
+
+black border → laptop
+
+as a dataset shortcut.
+
+---
+
+## 14. Automatic review buckets
+
+The cleaning script should initially divide Laptop candidates into:
+
+AUTO_KEEP
+
+Typical conditions:
+
+- valid annotation
+- no duplicate issue
+- reasonable object size
+- Laptop clearly represented
+- normal crop geometry
+
+REVIEW
+
+Typical reasons:
+
+- bbox_area_ratio < 2%
+- bbox_area_ratio > 80%
+- severe clipping
+- unusual aspect ratio
+- duplicate/source-group ambiguity
+- questionable crop
+- extremely low visual detail
+
+REMOVE
+
+Examples:
+
+- redundant exact duplicate copy
+- incorrect annotation
+- visually unidentifiable Laptop
+- extremely tiny low-resolution crop
+- severe fragment-only image
+- corrupt file
+
+Only the REVIEW bucket needs concentrated manual inspection.
+
+---
+
+## 15. Preserve sample relationships in metadata
+
+Every cleaned Laptop crop should retain metadata connecting it back to:
+
+- source dataset
+- original file name
+- original image ID
+- original annotation ID
+- source_group_id
+- exact image hash
+- original COCO bbox
+- bbox area ratio
+- preprocessing decision
+- final split
+
+This allows preprocessing mistakes to be traced without recollecting the dataset.
+
+---
+
+## 16. Final Laptop quantity
+
+UNU contains enough Laptop data that no additional Laptop dataset is currently required.
+
+The final number of Laptop training samples does not need to equal the original 1502 annotations.
+
+Quality and diversity are more important than retaining every sample.
+
+It is acceptable for preprocessing to substantially reduce the count if poor, tiny, duplicated or severely clipped samples are removed.
+
+---
+
+## 17. Final Dataset A balancing
+
+After every Dataset A class has been cleaned, the Laptop count will be compared with:
+
+- battery_powerbank
+- mobile_phone
+- charger_adapter
+- pcb
+- cable_plug
+
+If Laptop remains much larger than another class, a diverse subset may be selected rather than blindly using all available Laptop crops.
+
+Downsampling should preserve variation in:
+
+- backgrounds
+- Laptop models
+- open/closed state
+- angles
+- lighting
+- scene type
+
+---
+
+## 18. Augmentation
+
+Do not augment Laptop samples yet.
+
+After the final Dataset A train/validation/test split:
+
+Training only may use mild:
+
+- rotation
+- brightness variation
+- blur/noise
+- crop/scale variation
+- mild occlusion
+
+Validation and test images remain unaugmented.
+
+Augmentation must not create unrealistic device shapes or artificial damage.
+
+---
+
+## 19. Final cleaned-data audit
+
+Before Model 1 training:
+
+randomly inspect cleaned Laptop crops across:
+
+- small objects
+- normal objects
+- large objects
+- classroom scenes
+- product-style scenes
+- closed laptops
+- open laptops
+- cluttered scenes
+
+Confirm that:
+
+- Laptop is actually visible;
+- crop contains enough information;
+- no major border/background shortcut is obvious;
+- bad fragments were removed;
+- duplicate leakage is controlled.
+
+---
+
+## 20. Deployment alignment
+
+The E-Safe camera interface should ask the worker to photograph one main item and keep it reasonably large and fully visible inside the guide.
+
+Therefore the final training dataset should favour Laptop crops where the device is meaningfully visible while still retaining some real-world partial-visibility and clutter examples.

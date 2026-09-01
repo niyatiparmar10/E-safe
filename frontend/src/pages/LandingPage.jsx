@@ -1,11 +1,11 @@
-import { ArrowRight, Camera, CircleHelp, MapPinned, ShieldAlert, ShieldCheck } from 'lucide-react'
+import { ArrowRight, ShieldAlert, ShieldCheck } from 'lucide-react'
 import { motion, useReducedMotion } from 'motion/react'
 import { Link } from 'react-router'
+import LandingReveal from '../components/LandingReveal'
 import RiskBadge from '../components/RiskBadge'
+import WorkflowDeck from '../components/WorkflowDeck'
 import { useAuth } from '../hooks/useAuth'
 import { useMessages } from '../hooks/useMessages'
-
-const stepIcons = [Camera, CircleHelp, ShieldAlert, MapPinned]
 
 function LandingPage() {
   const { user } = useAuth()
@@ -33,7 +33,7 @@ function LandingPage() {
         </motion.div>
 
         <motion.div
-          className="hero-panel"
+          className="hero-panel hero-panel--animated"
           initial={prefersReducedMotion ? false : { opacity: 0, scale: 0.98 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.42, delay: 0.08 }}
@@ -59,48 +59,39 @@ function LandingPage() {
       </section>
 
       <section className="trust-strip">
-        <div className="shell-width trust-strip__inner">
+        <LandingReveal className="shell-width trust-strip__inner" distance={14}>
           <span>ONE ITEM AT A TIME</span><i />
           <span>PLAIN QUESTIONS</span><i />
           <span>CONSERVATIVE DECISIONS</span><i />
           <span>AUTHORISED PATHWAYS</span>
-        </div>
+        </LandingReveal>
       </section>
 
       <section className="how-section shell-width" id="how-it-works">
-        <div className="section-heading">
+        <LandingReveal className="section-heading">
           <p className="eyebrow">{landing.workflowEyebrow}</p>
           <h2>{landing.workflowTitle}</h2>
-        </div>
-        <div className="steps-grid steps-grid--four">
-          {landing.workflow.map(({ number, title, description }, index) => {
-            const Icon = stepIcons[index]
-            return (
-              <article className="step-card" key={number}>
-                <div className="step-card__meta"><span>{number}</span><Icon size={22} aria-hidden="true" /></div>
-                <h3>{title}</h3>
-                <p>{description}</p>
-              </article>
-            )
-          })}
-        </div>
+        </LandingReveal>
+        <WorkflowDeck steps={landing.workflow} messages={landing} />
       </section>
 
       <section className="risk-section">
         <div className="shell-width risk-section__inner">
-          <div className="section-heading">
+          <LandingReveal className="section-heading">
             <p className="eyebrow">{landing.riskEyebrow}</p>
             <h2>{landing.riskTitle}</h2>
-          </div>
+          </LandingReveal>
           <div className="risk-explanations">
-            {landing.risks.map(({ level, title, description }) => (
-              <article className={`risk-explanation risk-explanation--${level}`} key={level}>
+            {landing.risks.map(({ level, title, description }, index) => (
+              <LandingReveal as="article" className={`risk-explanation risk-explanation--${level} landing-motion-card`} delay={index * 0.08} key={level} lift>
                 <div><RiskBadge level={level} /><h3>{title}</h3></div>
                 <p>{description}</p>
-              </article>
+              </LandingReveal>
             ))}
           </div>
-          <aside className="safety-notice"><ShieldAlert size={21} aria-hidden="true" /><p>{landing.trustMessage}</p></aside>
+          <LandingReveal as="aside" className="safety-notice landing-motion-card" delay={0.12} lift>
+            <ShieldAlert size={21} aria-hidden="true" /><p>{landing.trustMessage}</p>
+          </LandingReveal>
         </div>
       </section>
     </main>

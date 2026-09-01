@@ -20,6 +20,9 @@ const english = {
     trustMessage: 'E-Safe only assesses supported visible and contextual risks. It does not certify that an electronic item is completely safe.',
     workflowEyebrow: 'A practical worker flow',
     workflowTitle: 'Clear steps for safer decisions.',
+    workflowDeckHint: 'Tap a step to open the full workflow.',
+    workflowDeckOpen: 'All four workflow steps are open.',
+    workflowDeckAction: 'Open all four workflow steps',
     riskEyebrow: 'What each result means',
     riskTitle: 'A careful decision, not a safety guarantee.',
     workflow: [

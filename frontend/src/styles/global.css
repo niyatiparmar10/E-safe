@@ -101,6 +101,8 @@ h1, h2, h3 { color: var(--ink); letter-spacing: -0.045em; }
 
 .hero::before { position: absolute; top: 0; right: -60px; width: min(77vw, 720px); height: 100%; content: ""; opacity: 0.8; background-image: linear-gradient(to right, rgba(17, 29, 23, 0.07) 1px, transparent 1px), linear-gradient(to bottom, rgba(17, 29, 23, 0.07) 1px, transparent 1px); background-size: 35px 35px; mask-image: linear-gradient(to left, black 10%, transparent 76%); pointer-events: none; }
 
+.hero::after { position: absolute; top: 20%; right: 5%; width: 310px; height: 310px; content: ""; opacity: 0.34; border-radius: 50%; background: radial-gradient(circle, rgba(120, 230, 194, 0.19), transparent 69%); filter: blur(10px); pointer-events: none; animation: heroAmbientGlow 7s ease-in-out infinite; }
+
 .hero__copy { position: relative; z-index: 1; }
 
 .hero h1 { max-width: 710px; margin-top: 15px; font-size: clamp(3rem, 9.2vw, 6.65rem); font-weight: 850; line-height: 0.91; }
@@ -144,6 +146,19 @@ h1, h2, h3 { color: var(--ink); letter-spacing: -0.045em; }
 
 @keyframes scanLine { 0%, 100% { transform: translateY(-128px); opacity: 0.2; } 48% { transform: translateY(0); opacity: 0.9; } }
 
+/* Public landing motion stays calm and informative—never a simulated scan result. */
+.hero-panel--animated::before { animation: heroPanelGrid 18s linear infinite; }
+.hero-panel--animated .item-outline { transform-origin: center; animation: heroDeviceDrift 6.5s ease-in-out infinite; }
+.hero-panel--animated .hero-panel__result { animation: heroResultSettle 5s ease-in-out infinite; }
+.landing-motion-card { transition: box-shadow 220ms ease, border-color 220ms ease; }
+.landing-motion-card:hover { border-color: #b8cdc1; box-shadow: 0 14px 30px rgba(20, 34, 27, 0.09); }
+.safety-notice.landing-motion-card:hover { border-color: rgba(200, 243, 72, 0.5); }
+
+@keyframes heroAmbientGlow { 0%, 100% { transform: translate3d(-10px, 8px, 0) scale(0.96); opacity: 0.22; } 50% { transform: translate3d(12px, -12px, 0) scale(1.05); opacity: 0.42; } }
+@keyframes heroPanelGrid { to { background-position: 61px 61px; } }
+@keyframes heroDeviceDrift { 0%, 100% { transform: rotate(8deg) translateY(0); } 50% { transform: rotate(6deg) translateY(-7px); } }
+@keyframes heroResultSettle { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-2px); } }
+
 .trust-strip { color: #dfe9dd; background: var(--night); }
 
 .trust-strip__inner { display: flex; align-items: center; justify-content: space-between; gap: 14px; min-height: 67px; overflow: auto; font-size: 0.64rem; font-weight: 800; letter-spacing: 0.11em; white-space: nowrap; }
@@ -170,6 +185,17 @@ h1, h2, h3 { color: var(--ink); letter-spacing: -0.045em; }
 .step-card:nth-child(3) h3 { color: #f5f8f3; }
 .step-card:nth-child(3) p { color: #b6c5ba; }
 .step-card:nth-child(3) .step-card__meta { color: var(--lime); }
+
+/* The workflow starts as a compact touch-friendly deck, then opens into four readable steps. */
+.workflow-deck__card { width: 100%; font: inherit; text-align: left; appearance: none; }
+.workflow-deck__hint { margin-top: 13px; color: var(--ink-soft); font-size: 0.78rem; font-weight: 700; line-height: 1.4; text-align: center; }
+.workflow-deck.is-stacked .workflow-deck__cards { position: relative; display: block; min-height: 280px; margin-bottom: 55px; }
+.workflow-deck.is-stacked .workflow-deck__card { position: absolute; inset: 0; min-height: 280px; cursor: pointer; }
+.workflow-deck.is-stacked .workflow-deck__card:nth-child(1) { z-index: 4; }
+.workflow-deck.is-stacked .workflow-deck__card:nth-child(2) { z-index: 3; }
+.workflow-deck.is-stacked .workflow-deck__card:nth-child(3) { z-index: 2; }
+.workflow-deck.is-stacked .workflow-deck__card:nth-child(4) { z-index: 1; }
+.workflow-deck.is-expanded .workflow-deck__card { cursor: default; }
 
 .auth-page { display: grid; min-height: calc(100vh - 148px); place-items: center; padding-block: 50px; }
 

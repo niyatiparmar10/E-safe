@@ -1,6 +1,6 @@
 battery_powerbank
 mobile_phone
-laptop_tablet
+laptop
 charger_adapter = external AC/DC charging or power-adapter units such as phone wall chargers and laptop power bricks/adapters.
 pcb
 cable_plug = complete electrical/charging cables, cords, wires and visible cable connectors/plugs
